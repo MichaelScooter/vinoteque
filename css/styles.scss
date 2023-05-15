@@ -9,11 +9,11 @@ $link-decoration: none;
 
 // 4. Include any default map overrides here
 $custom-colors: (
-				"primary": #F4442E,
-				"secondary": #FEA84B,
-				"farve3": #FFD8A9,
-				"farve4": #FDEEDC,
-				"farve5": #37130A,
+				"primary": #bf2222,
+				"secondary": #4e0707,
+				"farve3": #F9f9f9,
+				"farve4": #121212,
+
 );
 
 
@@ -23,7 +23,60 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 // 5. Du kan lave styling her...
 
-#main{
-	Padding: 1rem;
-	Min-height: calc(100vh - 50px - 300px);
+/*
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Montserrat', sans-serif;
+ */
+
+#logo{
+	content: url("../images/vinbaren_vinoteque.jpg");
+	max-height: 80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Cinzel Decorative";
+}
+
+p{
+	font-family: montserrat;
+}
+
+.nav-link, .dropdown-menu li a{
+	font-family: "Cinzel Decorative";
+}
+
+.navbar-nav .nav-link:hover {
+	color: red;
+}
+
+.testimonial-baggrund{
+	background-image: url("../images/druer_vinbaren.jpg");
+	background-position: center;
+	background-size: cover;
+	background-color: rgba(255, 255, 255, 0.7);
+	background-blend-mode: overlay;
+}
+
+.festlokale-baggrund{
+	background-image: url("../images/druer_vinbaren.jpg");
+	background-position: center;
+	background-size: cover;
+	background-color: rgba(255, 255, 255, 0.7);
+	background-blend-mode: overlay;
+}
+
+.fullscreen-bg {
+	background-image: url('../images/baggrund_vinbaren.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 75vh;
+}
+
+
+.contact{
+	background-image: url("../images/livets_efteraar.jpg");
+	background-blend-mode: overlay;
+	background-size: cover;
+	background-attachment: fixed;
 }
