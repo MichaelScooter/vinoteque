@@ -19,6 +19,9 @@
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Montserrat:wght@300;400&display=swap');
+    </style>
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,7 +33,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Her skal sidens indhold ligge -->
-<div class="contact vh-100 d-flex justify-content-center align-items-center" style="background-image: url(images/livets_efteraar.jpg)" id="kontakt">
+<div class="contact vh-100 d-flex justify-content-center align-items-center">
     <div class="form col-auto rounded-3 p-2 p-lg-5 bg-light bg-opacity-75" style="width: 80%;">
         <h2 class="text-uppercase">Kontakt Os</h2>
         <div class="mb-3">

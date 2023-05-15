@@ -59,16 +59,16 @@
 <!-- Velkommen Sektion -->
 <div class="container py-5">
     <div class="row py-lg-5">
-        <div class="text-center text-md-start">
+        <div class="text-center">
             <h5 class="text-primary">Velkommen om bord</h5>
             <h1>Vinoteque Marittima</h1>
-            <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, om det er i øl, vin, rom/gin så har vi ekspertisen.
+            <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
 
-                <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
+                <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
         </div>
-        <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="" class="img-fluid h-100"></div>
-        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="" class="img-fluid h-100"></div>
-        <div class="col-4 py-3"><img src="images/vinbarens_vin.jpg" alt="" class="img-fluid h-100"></div>
+        <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinbarens_vin.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
     </div>
 </div>
 
@@ -171,7 +171,7 @@
 </div>
 
 <!-- Vinen Festlokale -->
-<div class="container py-5">
+<div class="container py-5 festlokale-baggrund">
     <div class="row py-lg-5 d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
             <h5 class="text-primary">Festlokale</h5>
@@ -180,16 +180,14 @@
             <button class="btn btn-secondary text-white">Kontakt</button>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100">
+            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
 
 <!-- Kommende Events -->
 <div class="container-fluid p-lg-5 fullscreen-bg">
-    <h2 class="text-center text-white pt-5">Nye og spændende oplevelser</h2>
-    <p class="lead text-center pb-3 text-white">Vi ønsker at tilbyde forskellige events, så også de lokale har mulighed for,
-        at få nye og gode oplevelser uden at man er nødt til at køre udenbys.</p>
+    <h2 class="text-center text-white pt-5">Kommende events</h2>
     <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
         <div class="col-6 col-lg-3">
             <div class="bg-white mx-5">
@@ -200,7 +198,7 @@
                 <h6>Monday 10:00 – 18:30</h6>
                 <h4 class="text-white">øl<br>Smagning</h4>
                 <h5 class="text-white">195,- pr. person</h5>
-                <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4">
+                <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
             </div>
         </div>
         <div class="col-6 col-lg-3">
@@ -212,7 +210,7 @@
                 <h6>Monday 10:00 – 18:30</h6>
                 <h4 class="text-white">Sønderjysk<br>Kagebord</h4>
                 <h5 class="text-white">245,- pr. person</h5>
-                <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4">
+                <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -224,7 +222,7 @@
                 <h6>Monday 10:00 – 18:30</h6>
                 <h4 class="text-white">Gin<br>Smagning</h4>
                 <h5 class="text-white">245,- pr. person</h5>
-                <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4">
+                <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -236,7 +234,7 @@
                 <h6>Monday 10:00 – 18:30</h6>
                 <h4 class="text-white">Jazz<br>Koncert</h4>
                 <h5 class="text-white">295,- pr. person</h5>
-                <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4">
+                <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
             </div>
         </div>
 
@@ -244,14 +242,7 @@
     </div>
 </div>
 
-
-
-
-
-
 <?php include "includes/footer.php"; ?>
-
-
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
