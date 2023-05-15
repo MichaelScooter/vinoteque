@@ -45,8 +45,16 @@ p{
 	font-family: "Cinzel Decorative";
 }
 
+.navbar-nav .nav-link {
+	color: #121212;
+}
+
 .navbar-nav .nav-link:hover {
-	color: red;
+	color: #bf2222;
+}
+
+.navbar-nav .nav-link:active {
+	color: #4e0707;
 }
 
 .btn-link{
@@ -54,27 +62,20 @@ p{
 	color: white;
 }
 
-.testimonial-baggrund{
-	background-image: url("../images/druer_vinbaren.jpg");
+.druetop{
+	background-image: url("../images/drue_top.jpg");
 	background-position: center;
-	background-size: cover;
+	background-size: auto;
 	background-color: rgba(255, 255, 255, 0.7);
 	background-blend-mode: overlay;
 }
 
-.festlokale-baggrund{
-	background-image: url("../images/druer_vinbaren.jpg");
-	background-position: center;
-	background-size: cover;
-	background-color: rgba(255, 255, 255, 0.7);
-	background-blend-mode: overlay;
-}
-
+/* Dette er træbaggrunden - bruges bl.a. ved kommende events på forsiden*/
 .fullscreen-bg {
 	background-image: url('../images/baggrund_vinbaren.jpg');
 	background-size: cover;
 	background-position: center;
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	height: 100vh;
 }
 
@@ -83,4 +84,8 @@ p{
 	background-blend-mode: overlay;
 	background-size: cover;
 	background-attachment: fixed;
+}
+
+.overlay {
+	background-color: rgba(0, 0, 0, 0.8); /* Juster gennemsigtighed efter behov */
 }

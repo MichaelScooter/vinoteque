@@ -16,7 +16,7 @@
                     <a class="nav-link" href="om_os">Om os</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#koncerter">Koncerter</a>
+                    <a class="nav-link" href="loungen.php">Strand Caféen</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
@@ -31,7 +31,7 @@
                     <a class="nav-link" href="kontakt">Kontakt</a>
                 </li>
             </ul>
-            <a href="#koncerter" class="btn btn-primary text-white btn-link">Events</a>
+            <a href="#koncerter" class="btn btn-primary text-white btn-link ms-lg-2">Events</a>
         </div>
     </div>
 </nav>

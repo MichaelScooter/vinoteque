@@ -40,7 +40,7 @@
     <div>
         <div class="position-relative">
             <img src="images/vinbar_vinoteque.jpg" class="w-100">
-            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Nyd et glas vin og <br>den fantastisk udsigt
                     </h1>
@@ -49,19 +49,23 @@
                         <button type="button" class="btn btn-primary text-white">Find vej</button>
                         <button type="button" class="btn btn-secondary text-white">Events</button>
                     </div>
-
                 </div>
             </div>
         </div>
     </div>
 </div>
 
+<!-- Drue Top -->
+<div class="container-fluid">
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+</div>
+
 <!-- Velkommen Sektion -->
-<div class="container py-5">
-    <div class="row py-lg-5">
+<div class="container">
+    <div class="row">
         <div class="text-center">
             <h5 class="text-primary">Velkommen om bord</h5>
-            <h1>Vinoteque Marittima</h1>
+            <h2>Vinoteque Marittima</h2>
             <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
 
                 <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
@@ -88,6 +92,11 @@
     </div>
 </div>
 
+<!-- Drue Bund -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+</div>
+
 <!-- Udsigten fra Vinoteque -->
 <div class="bg-info hero position-relative">
     <img src="images/vinbar_udsigt.jpg" class="w-100 h-100">
@@ -98,8 +107,32 @@
     </div>
 </div>
 
+<!-- Drue Top -->
+<div class="container-fluid">
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+</div>
+<!-- Vinen Festlokale -->
+<div class="container">
+    <div class="row d-flex align-items-center text-center text-md-start">
+        <div class="col-12 col-md-6 pb-5 pe-md-3">
+            <h5 class="text-primary">Festlokale</h5>
+            <h2>Hold fest med en <br>skøn udsigt</h2>
+            <p class="lead pb-3">På øverste etage på Vinoteque er der indrettet et stort og flot fest lokale, der er plads til 70 gæster og kan lejes til hvilket formål, du nu måtte ønske.</p>
+            <button class="btn btn-secondary text-white">Kontakt</button>
+        </div>
+        <div class="col-12 col-md-6">
+            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100 rounded-3">
+        </div>
+    </div>
+</div>
+
+<!-- Drue Bund -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+</div>
+
 <!-- Testimonials -->
-<div class="container-fluid testimonial-baggrund py-5 text-center">
+<div class="container-fluid py-5 text-center bg-farve3">
     <h2 class="mb-4 text-uppercase pt-lg-5">Referencer</h2>
     <p class="mb-4 lead">Udtalelser fra tidligere gæster om deres oplevelser på Vinoteque Marittima</p>
 
@@ -170,71 +203,56 @@
 
 </div>
 
-<!-- Vinen Festlokale -->
-<div class="container py-5 festlokale-baggrund">
-    <div class="row py-lg-5 d-flex align-items-center text-center text-md-start">
-        <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Festlokale</h5>
-            <h2>Hold fest med en <br>skøn udsigt</h2>
-            <p class="lead pb-3">På øverste etage på Vinoteque er der indrettet et stort og flot fest lokale, der er plads til 70 gæster og kan lejes til hvilket formål, du nu måtte ønske.</p>
-            <button class="btn btn-secondary text-white">Kontakt</button>
-        </div>
-        <div class="col-12 col-md-6">
-            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100 rounded-3">
-        </div>
-    </div>
-</div>
-
 <!-- Kommende Events -->
 <div class="container-fluid p-lg-5 fullscreen-bg">
-    <h2 class="text-center text-white pt-5">Kommende events</h2>
+    <h2 class="text-center text-white mt-lg-3 pt-5">Kommende events</h2>
     <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
         <div class="col-6 col-lg-3">
-            <div class="bg-white mx-5">
+            <div class="bg-white">
                 <h5 class="text-primary">31</h5>
                 <h6 class="text-muted">Februar</h6>
             </div>
             <div>
-                <h6>Monday 10:00 – 18:30</h6>
-                <h4 class="text-white">øl<br>Smagning</h4>
-                <h5 class="text-white">195,- pr. person</h5>
-                <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
+                <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
+                <h4 class="text-white pt-lg-3">øl<br>Smagning</h4>
+                <h5 class="text-white py-lg-3">195,- pr. person</h5>
+                <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
             </div>
         </div>
         <div class="col-6 col-lg-3">
-            <div class="bg-white mx-5">
+            <div class="bg-white">
                 <h5 class="text-primary">31</h5>
                 <h6 class="text-muted">Februar</h6>
             </div>
             <div>
-                <h6>Monday 10:00 – 18:30</h6>
-                <h4 class="text-white">Sønderjysk<br>Kagebord</h4>
-                <h5 class="text-white">245,- pr. person</h5>
-                <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
+                <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
+                <h4 class="text-white pt-lg-3">Sønderjysk<br>Kagebord</h4>
+                <h5 class="text-white py-lg-3">245,- pr. person</h5>
+                <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-            <div class="bg-white mx-5">
+            <div class="bg-white">
                 <h5 class="text-primary">31</h5>
                 <h6 class="text-muted">Februar</h6>
             </div>
             <div>
-                <h6>Monday 10:00 – 18:30</h6>
-                <h4 class="text-white">Gin<br>Smagning</h4>
-                <h5 class="text-white">245,- pr. person</h5>
-                <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
+                <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
+                <h4 class="text-white pt-lg-3">Gin<br>Smagning</h4>
+                <h5 class="text-white py-lg-3">245,- pr. person</h5>
+                <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-            <div class="bg-white mx-5">
+            <div class="bg-white">
                 <h5 class="text-primary">31</h5>
                 <h6 class="text-muted">Februar</h6>
             </div>
             <div>
-                <h6>Monday 10:00 – 18:30</h6>
-                <h4 class="text-white">Jazz<br>Koncert</h4>
-                <h5 class="text-white">295,- pr. person</h5>
-                <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 p-2">
+                <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
+                <h4 class="text-white pt-lg-3">Jazz<br>Koncert</h4>
+                <h5 class="text-white py-lg-3">295,- pr. person</h5>
+                <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
             </div>
         </div>
 

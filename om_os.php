@@ -39,7 +39,7 @@
     <div>
         <div class="position-relative">
             <img src="images/marittima_vinoteque.jpg" class="w-100">
-            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Vinoteque Marittima</h1>
                     <p class="lead text-white">Historien om skibet og vinbaren</p>
@@ -49,9 +49,14 @@
     </div>
 </div>
 
+<!-- Drue Top -->
+<div class="container-fluid">
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+</div>
+
 <!-- Historien -->
-<div class="container py-5 festlokale-baggrund">
-    <div class="row py-lg-5 d-flex align-items-center text-center text-md-start">
+<div class="container">
+    <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
             <h5 class="text-primary">Historien</h5>
             <h2>Marittima, Porto de Morgan og nu Vinoteque Marittima</h2>
@@ -68,22 +73,22 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/vibaren_Jes_Jonigk.jpg" alt="" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
 
-<div class="container py-5">
-    <div class="row py-lg-5 d-flex align-items-start text-center text-md-start">
+<div class="container pb-lg-5 pt-5">
+    <div class="row d-flex align-items-start text-center text-md-start">
         <div class="col-12 col-md-6 pe-md-3">
-            <h3>Hvem står bag Vinotequet.</h3>
+            <h3>Hvem står bag Vinotequet?</h3>
             <p>Vinotequet er en ide opstået af vinhandler Jes Jonigk, fra Marius Mortensens Eftf. Det var aldrig meningen at byens Vinoteque skulle ligge på vandet, det var en ren tilfældighed.</p>
             <p>Ejerkredsen er udvidet til 40 investorer i selskabet Marius & Friends, disse ejer selve skibet og med deres investering for øje, er det et ønske at åbne og udvikle Nykøbing F Havn.</p>
             <p>Den daglige drift står Marius Mortensens Eftf for. I det daglige bedre kendt som Marius ( vinhandlen ) og Thea ( delikatesser, kaffe og The ). Marius og Thea er byens førende med vin, tobak, spiritus, delikatesser, kaffe og et stort the udvalg. Marius Mortensens Eftf er blandt verdens 10 ældste Tobaks og Vinforretninger – Born 1865 and still going strong.</p>
             <p>Drømmen om at åbne en god kvalitativ vin og kaffebar er hermed blevet til. Nogen tænker det, andre drømmer det – VI GØR DET .</p>
         </div>
 
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 pt-3 pt-lg-0">
             <h3>Vin, Events og Festlokale</h3>
             <p>Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, om det er i øl, vin, rom/gin så har vi ekspertisen.</p>
             <p>Vinotequet i sig selv, byder på et stort udvalg i vine, øl, drinks kaffe og the. </p>
@@ -95,9 +100,13 @@
     </div>
 </div>
 
+<!-- Drue Top -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+</div>
 
 <!-- Billed af skib -->
-<div class="bg-info hero position-relative">
+<div class="bg-info hero position-relative pt">
     <img src="images/vinoteque_marittima.jpg" class="w-100 h-100">
 
     <div class="position-absolute mt-3 mt-lg-5 pt-5 top-0 start-50 translate-middle text-center text-white">
@@ -113,5 +122,3 @@
 </body>
 </html>
 
-Vi ønsker at tilbyde forskellige events, så også de lokale har mulighed for,
-at få nye og gode oplevelser uden at man er nødt til at køre udenbys.
