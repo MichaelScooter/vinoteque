@@ -87,7 +87,7 @@
             <button class="btn btn-secondary text-white">Læs om Vinoteque</button>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vinbarens_vine.jpg" alt="" class="img-fluid h-100">
+            <img src="images/vinbarens_vine2.jpg" alt="" class="img-fluid h-100">
         </div>
     </div>
 </div>

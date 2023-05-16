@@ -96,5 +96,3 @@
 </body>
 </html>
 
-Vi ønsker at tilbyde forskellige events, så også de lokale har mulighed for,
-at få nye og gode oplevelser uden at man er nødt til at køre udenbys.
