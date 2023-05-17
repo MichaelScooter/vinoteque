@@ -82,13 +82,17 @@
 </div>
 
 
-<!-- Billed af strand Caféen -->
-<div class="bg-info hero position-relative">
-    <img src="images/vinoteque_strand_cafe.jpg" class="w-100 h-100">
 
-    <div class="position-absolute mt-3 mt-lg-5 pt-5 top-0 start-50 translate-middle text-center text-white">
-        <h5 class="pt-md-3 pt-lg-5 mt-md-3 mt-lg-5">Vinoteque</h5>
-        <h2>Strand Café</h2>
+<!-- Billede af strand Caféen -->
+<div class="container-fluid fixedBaggrund vh-50 d-flex justify-content-center align-items-center py-5">
+    <div class="row">
+        <div class="col-12 text-white text-center py-lg-5">
+            <h5>Vinoteque</h5>
+            <h2>Strand Café</h2>
+        </div>
+        <div class="col-12 d-flex justify-content-center">
+            <img src="images/vinoteque_strand_cafe.png" alt="" class="img-fluid v-100">
+        </div>
     </div>
 </div>
 

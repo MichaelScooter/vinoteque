@@ -45,7 +45,7 @@
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Vinoteque Marittima
                     </h1>
-                    <p class="lead text-white">Byder på et stort udvalg i vine, øl, drinks, kaffe og the.</p>
+                    <p class="lead text-white px-3 px-lg-0">Byder på et stort udvalg i vine, øl, drinks, kaffe og the.</p>
                     <div>
                         <a href="vej.php" class="btn btn-primary text-white btn-link ms-lg-2">Find Vej</a>
                         <a href="events.php" class="btn btn-secondary text-white btn-link ms-lg-2">Events</a>
@@ -209,9 +209,15 @@
 
 </div>
 
+<!-- Kommende Events -->
+<div class="container-fluid p-lg-5 fullscreen-bg">
+    <h2 class="text-center text-white mt-lg-3 pt-5">Kommende events</h2>
+    <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
+        <?php include "includes/events_vinoteque.php"; ?>
+    </div>
+</div>
 
 
-<?php include "includes/events_vinoteque.php"; ?>
 
 <?php include "includes/footer.php"; ?>
 

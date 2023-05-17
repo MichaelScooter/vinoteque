@@ -56,7 +56,7 @@
     <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
 
-
+<!-- Tabs Events -->
 <div class="container text-center">
     <h2>Her kan du se alle vores kommende events</h2>
     <p class="lead">Events på skibet Vinoteque foregår indendørs og på strand caféen udendørs.</p>
@@ -77,169 +77,23 @@
         <section id="alle" class="tab-panel fullscreen-bg">
         <!-- Tab 1: Tekst ind her -->
             <div class="row d-flex justify-content-center text-center p-5">
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">øl<br>Smagning</h4>
-                        <h5 class="text-white py-lg-3">195,- pr. person</h5>
-                        <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Sønderjysk<br>Kagebord</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Gin<br>Smagning</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Jazz<br>Koncert</h4>
-                        <h5 class="text-white py-lg-3">295,- pr. person</h5>
-                        <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    </div>
-                </div>
+                <?php include "includes/events_vinoteque.php"; ?>
+            </div>
+            <div class="row d-flex justify-content-center text-center p-5">
+                <?php include "includes/events_cafe.php"; ?>
             </div>
 
         </section>
         <section id="vinoteque" class="tab-panel fullscreen-bg">
         <!-- Tab 2: Tekst ind her -->
             <div class="row d-flex justify-content-center text-center p-5">
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">øl<br>Smagning</h4>
-                        <h5 class="text-white py-lg-3">195,- pr. person</h5>
-                        <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Sønderjysk<br>Kagebord</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Gin<br>Smagning</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Jazz<br>Koncert</h4>
-                        <h5 class="text-white py-lg-3">295,- pr. person</h5>
-                        <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
+                <?php include "includes/events_vinoteque.php"; ?>
             </div>
         </section>
         <section id="strand" class="tab-panel fullscreen-bg">
         <!-- Tab 3: Tekst ind her -->
             <div class="row d-flex justify-content-center text-center p-5">
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">LF Mesterskaber<br>i maveplask</h4>
-                        <h5 class="text-white py-lg-3">195,- pr. person</h5>
-                        <img src="images/lf_mesterskaber_maveplask.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Filmaften<br>på storskærm</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/film_event_storskaem.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Tour de France<br>på storskærm</h4>
-                        <h5 class="text-white py-lg-3">245,- pr. person</h5>
-                        <img src="images/torr_de_france_storskaerm.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 pt-5 pt-lg-0">
-                    <div class="bg-white">
-                        <h5 class="text-primary">31</h5>
-                        <h6 class="text-muted">Februar</h6>
-                    </div>
-                    <div>
-                        <h6 class="pt-lg-4 text-white">Monday 10:00 – 18:30</h6>
-                        <h4 class="text-white pt-lg-3">Sankt Hans med<br>fiksefestival</h4>
-                        <h5 class="text-white py-lg-3">295,- pr. person</h5>
-                        <img src="images/sankt_hans.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                        <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
-                    </div>
-                </div>
+                <?php include "includes/events_cafe.php"; ?>
             </div>
         </section>
     </div>
@@ -259,3 +113,5 @@
 
 </body>
 </html>
+
+
