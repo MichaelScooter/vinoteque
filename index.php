@@ -67,7 +67,6 @@
             <h5 class="text-primary">Velkommen om bord</h5>
             <h2>Nyd et glas vin og den fantastisk udsigt</h2>
             <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
-
                 <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
         </div>
         <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
@@ -97,15 +96,20 @@
     <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
-<!-- Udsigten fra Vinoteque -->
-<div class="bg-info hero position-relative">
-    <img src="images/vinbar_udsigt.jpg" class="w-100 h-100">
 
-    <div class="position-absolute mt-3 mt-lg-5 pt-5 top-0 start-50 translate-middle text-center text-white">
-        <h5 class="pt-md-3 pt-lg-5 mt-md-3 mt-lg-5">Udsigten</h5>
-        <h2>Vinoteque Marittima</h2>
+<!-- Udsigten fra Vinoteque -->
+<div class="container-fluid fixedBaggrund vh-50 d-flex justify-content-center align-items-center py-5">
+    <div class="row">
+        <div class="col-12 text-white text-center py-lg-5">
+            <h5>Udsigten</h5>
+            <h2>Vinoteque Marittima</h2>
+        </div>
+        <div class="col-12">
+        <img src="images/vinoteque_udsigten.png" alt="" class="img-fluid v-100">
+        </div>
     </div>
 </div>
+
 
 <!-- Drue Top -->
 <div class="container-fluid">
@@ -113,7 +117,7 @@
 </div>
 
 <!-- Vinen Festlokale -->
-<div class="container">
+<div class="container pt-5">
     <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
             <h5 class="text-primary">Festlokale</h5>
@@ -129,7 +133,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100 py-3">
 </div>
 
 <!-- Testimonials -->

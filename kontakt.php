@@ -86,7 +86,7 @@
 </div>
 
 <!-- kontakt formular -->
-<div class="contact vh-100 d-flex justify-content-center align-items-center">
+<div class="fixedBaggrund vh-100 d-flex justify-content-center align-items-center">
     <div class="form col-auto rounded-3 p-2 p-lg-5 bg-light bg-opacity-75" style="width: 80%;">
         <h2 class="text-uppercase">Skriv en besked</h2>
         <div class="mb-3">

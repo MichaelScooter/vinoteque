@@ -115,6 +115,11 @@
     </div>
 </div>
 
+<!-- Google Map -->
+<div class="fixedBaggrundSmal vh-100 d-flex justify-content-center align-items-center px-3">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.590234059943!2d11.858908712815465!3d54.7695909726224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30fa2b1b7da5%3A0x7354c59eccd9b31b!2sNdr%20Kajgade%20%26%20Sandgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1684255003172!5m2!1sda!2sdk" width="1200" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 <?php include "includes/footer.php"; ?>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

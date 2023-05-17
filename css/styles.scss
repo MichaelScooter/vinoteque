@@ -79,7 +79,7 @@ p{
 
 }
 
-.contact, .vej {
+.fixedBaggrund{
 	background-image: url("../images/baggrund_vinbaren.jpg");
 	background-blend-mode: overlay;
 	background-size: cover;
@@ -117,10 +117,7 @@ p{
 /*
  Styling
 */
-body {
-	color: #333;
-	font-weight: 300;
-}
+
 
 .tabset > label {
 	position: relative;
