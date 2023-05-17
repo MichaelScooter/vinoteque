@@ -9,7 +9,7 @@
                 <h4 class="text-white pt-lg-3">Sankt Hans<br>Med Fiskefestival</h4>
                 <h5 class="text-white py-lg-3">195,- pr. person</h5>
                 <img src="images/sankt_hans.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                <a href="sankt_hans.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
             </div>
         </div>
         <div class="col-6 col-lg-3">
@@ -21,8 +21,8 @@
                 <h6 class="pt-lg-4 text-white">Lørdag kl. 14.00</h6>
                 <h4 class="text-white pt-lg-3">Tour de France<br>Storskærm</h4>
                 <h5 class="text-white py-lg-3">145,- pr. person</h5>
-                <img src="images/torr_de_france_storskaerm.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                <img src="images/tour_de_france_storskaerm.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
+                <a href="tour_france.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -35,7 +35,7 @@
                 <h4 class="text-white pt-lg-3">LF Mesterskab<br>Maveplask</h4>
                 <h5 class="text-white py-lg-3">95,- pr. person</h5>
                 <img src="images/lf_mesterskaber_maveplask.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                <a href="maveplask.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
             </div>
         </div>
         <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -48,6 +48,6 @@
                 <h4 class="text-white pt-lg-3">Film<br>Storskærm</h4>
                 <h5 class="text-white py-lg-3">195,- pr. person</h5>
                 <img src="images/film_event_storskaem.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                <a href="film.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
             </div>
         </div>

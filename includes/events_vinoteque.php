@@ -9,7 +9,7 @@
                     <h4 class="text-white pt-lg-3">øl<br>Smagning</h4>
                     <h5 class="text-white py-lg-3">195,- pr. person</h5>
                     <img src="images/oel-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                    <a href="oel_smagning.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
                 </div>
             </div>
             <div class="col-6 col-lg-3">
@@ -22,7 +22,7 @@
                     <h4 class="text-white pt-lg-3">Sønderjysk<br>Kagebord</h4>
                     <h5 class="text-white py-lg-3">245,- pr. person</h5>
                     <img src="images/kagebuffet-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                    <a href="kagebord.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
                 </div>
             </div>
             <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -35,7 +35,7 @@
                     <h4 class="text-white pt-lg-3">Gin<br>Smagning</h4>
                     <h5 class="text-white py-lg-3">245,- pr. person</h5>
                     <img src="images/gin-smagning-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                    <a href="gin.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
                 </div>
             </div>
             <div class="col-6 col-lg-3 pt-5 pt-lg-0">
@@ -48,6 +48,6 @@
                     <h4 class="text-white pt-lg-3">Jazz<br>Koncert</h4>
                     <h5 class="text-white py-lg-3">295,- pr. person</h5>
                     <img src="images/jazz-koncert-vinbaren.jpg" alt="" class="img-fluid h-100 rounded-4 border border-white border-1">
-                    <a href="events.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
+                    <a href="jazz.php" class="btn btn-primary text-white btn-link mt-4">Se event</a>
                 </div>
             </div>

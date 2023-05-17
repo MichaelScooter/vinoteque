@@ -39,11 +39,11 @@
     <div>
         <div class="position-relative">
             <img src="images/marittima_vinoteque_mobil.jpg" class="w-100 d-lg-none">
-            <img src="images/oel_smagnin_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/sankt_hans_vinoteque.jpg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Øl Smagning</h1>
-                    <p class="lead text-white">Få nye smagsoplevelser og måske en ny favorit øl.</p>
+                    <h1 class="text-white">Sankt Hans</h1>
+                    <p class="lead text-white">Kombineret med en lækker fiskefestival</p>
                 </div>
             </div>
         </div>
@@ -59,19 +59,15 @@
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Lørdag d. 24. juni kl. 20.00</h5>
-            <h2>Ølsmagning for alle</h2>
-            <p class="lead pb-3">En unik oplevelse venter dig på dette særlige ølsmagningsevent, der finder sted på et imponerende skib, der ligger fast fortøjet i havnen. Mens du træder ombord, bliver du mødt af en atmosfære fyldt med spænding og forventning. Skibets majestætiske udseende og charme er en prægtig kulisse for denne uforglemmelige begivenhed.
-            </p>
-            <p>
-                Mens du bevæger dig gennem skibets dækkede områder, føles det som at træde ind i en verden af elegance og raffinement. Fra det øjeblik, du træder ombord, kan du mærke en særlig energi, der summer i luften. Den lækre udsigt over havet og havnen strækker sig ud foran dig, og du kan næsten mærke havbrisen på dit ansigt.
-            </p>
+            <h5 class="text-primary">Lørdag d. 24. juni kl. 18.00</h5>
+            <h2>Nyd en magisk Sankt Hans aften med en skøn udsigt</h2>
+            <p class="lead pb-3">Velkommen til en magisk Sankt Hans aften kombineret med en lækker fiskefestival på en hyggelig strandcafé beliggende ved havnen. Dette event er dedikeret til at fejre den traditionsrige Sankt Hans aften og samtidig nyde en overdådig fest med lækre fiskeretter. </p>
+            <p>Når du ankommer til strandcaféen, vil du straks blive betaget af den afslappede atmosfære og den betagende udsigt over havet og den omkringliggende natur, der danner den perfekte kulisse for denne unikke begivenhed.</p>
             <p class="lead">Pris pr. person kr. 195,-</p>
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
-
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_oel_smagning.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/evet_sankt_hans.jpg" alt="" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -79,15 +75,15 @@
 <div class="container pb-lg-5 pt-5">
     <div class="row d-flex align-items-start text-center text-md-start">
         <div class="col-12 col-md-6 pe-md-3">
-            <h3>Oplev ølens fortryllende verden på smukke omgivelser</h3>
-            <p>Eventet begynder med en varm velkomst fra det imødekommende personale, der guider dig til det dedikerede område til ølsmagning. Det stilfulde indretning og den sofistikerede atmosfære bidrager til den eksklusive stemning, der omgiver arrangementet. Smukt anrettede borde er fyldt med et udvalg af nøje udvalgte ølflasker og specialdesignede glas, der venter på at blive udforsket.</p>
-            <p>Eksperter inden for ølverdenen står klar til at guide dig gennem smagningens kunst. De deler deres dybdegående viden om ølens historie, brygningsprocessen og de forskellige smagsnuancer, der kan findes i forskellige ølvarianter. Du vil blive betaget af de rige aromaer, de komplekse smagsoplevelser og de subtile nuancer, der danser på din tunge.</p>
-            </div>
+            <h3>Udforsk den lækre fiskefestival og oplev Sankt Hans traditionerne</h3>
+            <p>På dette event kan du udforske en lækker fiskefestival, hvor dygtige kokke tilbereder en bred vifte af friske fiskeretter til din fornøjelse. Du vil blive forkælet med alt fra sprøde fiskefrikadeller til saftige grillede fiskesteaks og forfriskende fisketacos. Den lækre fiskefestival vil tilfredsstille dine smagsløg og give dig mulighed for at nyde havets delikatesser i en afslappet strandatmosfære.</p>
+            <p>Samtidig vil du blive en del af de traditioner, der er forbundet med Sankt Hans aften. Strandcaféen vil arrangere en hyggelig bålfest, hvor du kan være med til at sende heksene afsted på havet. Du vil kunne nyde synet af bålet, der flammer op mod den maleriske solnedgang, og deltage i fællessangen og de traditionelle ritualer, der skaber en stemningsfuld og festlig atmosfære.</p>
+        </div>
 
         <div class="col-12 col-md-6 pt-3 pt-lg-0">
-            <h3>En fortryllende kombination af smagsoplevelser og betagende udsigt</h3>
-            <p>Mens du nyder de lækre ølsmagsprøver, kan du lade dig forføre af den fortryllende udsigt udenfor. Det maleriske havnemiljø med skibes bevægelse og den solnedgang, der kaster et gyldent lys over horisonten, giver en perfekt kulisse til denne eksklusive oplevelse.</p>
-            <p>Uanset om du er en ægte ølentusiast eller bare nysgerrig efter at udforske ølverdenens vidundere, vil denne ølsmagningsevent på det stillestående skib efterlade dig med minder for livet. En kombination af sublime smagsoplevelser, forbløffende udsigt og en atmosfære fyldt med klasse.</p>
+            <h3>En uforglemmelig aften på strandcaféen med Sankt Hans og fiske</h3>
+            <p>Dette event er skabt specielt til at skabe uforglemmelige minder på Sankt Hans aften. Uanset om du er en fiskeentusiast, en tilhænger af Sankt Hans-traditioner eller blot leder efter en unik oplevelse, vil kombinationen af fiskefestival og Sankt Hans aften på strandcaféen give dig en mindeværdig aften. Nyd de lækre fiskeretter, deltag i de traditionelle ritualer og lad dig forføre af den betagende udsigt over havet og stranden, mens du fejrer Sankt Hans aften i godt selskab.</p>
+            <p>Tag del i denne unikke Sankt Hans aften og fiskefestival på strandcaféen og lad dig fortrylle af den magiske atmosfære. Udforsk de kulinariske lækkerier, deltag i traditionerne og skab uforglemmelige minder med dine venner og familie. Det bliver en aften fyldt med fest, god mad og en betagende udsigt, som vil efterlade dig med en varm følelse i hjertet.</p>
         </div>
     </div>
 </div>
@@ -100,9 +96,9 @@
 <!-- Kommende Events -->
 <div class="container-fluid p-5 fullscreen-bg">
     <h2 class="text-center text-white mt-lg-3 pt-5">Kommende events</h2>
-    <p class="lead text-center text-white">Skibet Vinoteque</p>
+    <p class="lead text-center text-white">Strand Caféen</p>
     <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
-        <?php include "includes/events_vinoteque.php"; ?>
+        <?php include "includes/events_cafe.php"; ?>
     </div>
 </div>
 

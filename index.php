@@ -210,8 +210,9 @@
 </div>
 
 <!-- Kommende Events -->
-<div class="container-fluid p-lg-5 fullscreen-bg">
+<div class="container-fluid p-5 fullscreen-bg">
     <h2 class="text-center text-white mt-lg-3 pt-5">Kommende events</h2>
+    <p class="lead text-center text-white">Skibet Vinoteque</p>
     <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
         <?php include "includes/events_vinoteque.php"; ?>
     </div>

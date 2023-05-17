@@ -39,11 +39,11 @@
     <div>
         <div class="position-relative">
             <img src="images/marittima_vinoteque_mobil.jpg" class="w-100 d-lg-none">
-            <img src="images/oel_smagnin_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/gin_smagning_vinoteque.jpg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Øl Smagning</h1>
-                    <p class="lead text-white">Få nye smagsoplevelser og måske en ny favorit øl.</p>
+                    <h1 class="text-white">Gin Smagning</h1>
+                    <p class="lead text-white">Prøv alle de nye varianter</p>
                 </div>
             </div>
         </div>
@@ -59,19 +59,17 @@
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Lørdag d. 24. juni kl. 20.00</h5>
-            <h2>Ølsmagning for alle</h2>
-            <p class="lead pb-3">En unik oplevelse venter dig på dette særlige ølsmagningsevent, der finder sted på et imponerende skib, der ligger fast fortøjet i havnen. Mens du træder ombord, bliver du mødt af en atmosfære fyldt med spænding og forventning. Skibets majestætiske udseende og charme er en prægtig kulisse for denne uforglemmelige begivenhed.
-            </p>
-            <p>
-                Mens du bevæger dig gennem skibets dækkede områder, føles det som at træde ind i en verden af elegance og raffinement. Fra det øjeblik, du træder ombord, kan du mærke en særlig energi, der summer i luften. Den lækre udsigt over havet og havnen strækker sig ud foran dig, og du kan næsten mærke havbrisen på dit ansigt.
-            </p>
-            <p class="lead">Pris pr. person kr. 195,-</p>
+            <h5 class="text-primary">Lørdag d. 22. Juli kl. 20.00</h5>
+            <h2>Oplev en fortryllende gin-smagning på et skib med udsigt</h2>
+            <p class="lead pb-3">Velkommen til en fortryllende gin-smagning ombord på et skib, der ligger fast fortøjet i havnen. Dette event er dedikeret til elskere af gin og de subtile nuancer, der kendetegner denne populære spiritus.  </p>
+            <p>Mens du træder ombord på skibet, bliver du mødt af en atmosfære af spænding og forventning. Udsigten over havet og havnen, der strækker sig ud foran dig, skaber en lækker kulisse for denne uforglemmelige gin-smagning.</p>
+
+            <p class="lead">Pris pr. person kr. 245,-</p>
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_oel_smagning.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_gin_smagning.jpg" alt="" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -79,15 +77,15 @@
 <div class="container pb-lg-5 pt-5">
     <div class="row d-flex align-items-start text-center text-md-start">
         <div class="col-12 col-md-6 pe-md-3">
-            <h3>Oplev ølens fortryllende verden på smukke omgivelser</h3>
-            <p>Eventet begynder med en varm velkomst fra det imødekommende personale, der guider dig til det dedikerede område til ølsmagning. Det stilfulde indretning og den sofistikerede atmosfære bidrager til den eksklusive stemning, der omgiver arrangementet. Smukt anrettede borde er fyldt med et udvalg af nøje udvalgte ølflasker og specialdesignede glas, der venter på at blive udforsket.</p>
-            <p>Eksperter inden for ølverdenen står klar til at guide dig gennem smagningens kunst. De deler deres dybdegående viden om ølens historie, brygningsprocessen og de forskellige smagsnuancer, der kan findes i forskellige ølvarianter. Du vil blive betaget af de rige aromaer, de komplekse smagsoplevelser og de subtile nuancer, der danser på din tunge.</p>
-            </div>
+            <h3>Udforsk ginens vidunderlige smagspalette</h3>
+            <p>På dette event kan du udforske ginens fortryllende verden og opdage forskellige varianter og smagsnuancer. Du vil blive præsenteret for et nøje udvalgt udvalg af gin, der spænder fra klassiske London Dry Gins til eksotiske og moderne varianter. Smagningens eksperter vil guide dig gennem hver gin og dele deres viden om destilleringsprocessen, de botaniske ingredienser og de unikke smagssignaturer, der kendetegner hver enkelt gin.</p>
+            <p>Mens du nyder de delikate gin-smagsprøver, kan du lade dig forføre af den betagende udsigt udenfor. Skibet er placeret i havnen, og du kan beundre det spektakulære panorama over vandet og omgivelserne. Den kombination af udsigt, smagsoplevelser og den unikke atmosfære skaber en uforglemmelig oplevelse for dine sanser.</p>
+        </div>
 
         <div class="col-12 col-md-6 pt-3 pt-lg-0">
-            <h3>En fortryllende kombination af smagsoplevelser og betagende udsigt</h3>
-            <p>Mens du nyder de lækre ølsmagsprøver, kan du lade dig forføre af den fortryllende udsigt udenfor. Det maleriske havnemiljø med skibes bevægelse og den solnedgang, der kaster et gyldent lys over horisonten, giver en perfekt kulisse til denne eksklusive oplevelse.</p>
-            <p>Uanset om du er en ægte ølentusiast eller bare nysgerrig efter at udforske ølverdenens vidundere, vil denne ølsmagningsevent på det stillestående skib efterlade dig med minder for livet. En kombination af sublime smagsoplevelser, forbløffende udsigt og en atmosfære fyldt med klasse.</p>
+            <h3> Et eksklusivt event for gin-entusiaster</h3>
+            <p>Dette event er skabt specielt til gin-entusiaster og dem, der ønsker at udforske ginens vidundere. Uanset om du er en erfaren gin-connaisseur eller bare nysgerrig efter at udforske verdenen af gin, vil denne gin-smagning ombord på det stillestående skib give dig en eksklusiv og berigende oplevelse. Du vil opdage nye favoritter, blive forbløffet over de forskellige smagsprofiler og måske endda lære at sammensætte dine egne gin-baserede cocktails.</p>
+            <p>Tag del i denne unikke gin-smagningsevent og lad dig forføre af ginens fortryllende smagsspektre. Nyd de delikate gin-varianter, den betagende udsigt og den eksklusive atmosfære ombord på skibet. Det er en uforglemmelig oplevelse, der vil efterlade dig med en nyvunden kærlighed til ginens verden.</p>
         </div>
     </div>
 </div>

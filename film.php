@@ -39,11 +39,11 @@
     <div>
         <div class="position-relative">
             <img src="images/marittima_vinoteque_mobil.jpg" class="w-100 d-lg-none">
-            <img src="images/oel_smagnin_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/film_event_vinoteque.jpg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Øl Smagning</h1>
-                    <p class="lead text-white">Få nye smagsoplevelser og måske en ny favorit øl.</p>
+                    <h1 class="text-white">Film</h1>
+                    <p class="lead text-white">På Storskærm - i hyggelig & lækker sommer stemning</p>
                 </div>
             </div>
         </div>
@@ -59,19 +59,16 @@
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Lørdag d. 24. juni kl. 20.00</h5>
-            <h2>Ølsmagning for alle</h2>
-            <p class="lead pb-3">En unik oplevelse venter dig på dette særlige ølsmagningsevent, der finder sted på et imponerende skib, der ligger fast fortøjet i havnen. Mens du træder ombord, bliver du mødt af en atmosfære fyldt med spænding og forventning. Skibets majestætiske udseende og charme er en prægtig kulisse for denne uforglemmelige begivenhed.
-            </p>
-            <p>
-                Mens du bevæger dig gennem skibets dækkede områder, føles det som at træde ind i en verden af elegance og raffinement. Fra det øjeblik, du træder ombord, kan du mærke en særlig energi, der summer i luften. Den lækre udsigt over havet og havnen strækker sig ud foran dig, og du kan næsten mærke havbrisen på dit ansigt.
-            </p>
+            <h5 class="text-primary">Lørdag d. 5. August kl. 20.00</h5>
+            <h2>Oplev magien ved film på en strandcafé med betagende havudsigt</h2>
+            <p class="lead pb-3">Velkommen til en uforglemmelig filmoplevelse på en strandcafé beliggende ved havnen. Her kan du fordybe dig i magien ved film, mens du nyder en betagende udsigt over det strålende hav og den solnedgang, der maler himlen i varme farver.</p>
+           <p>Når du træder ind på strandcaféen, vil du straks blive mødt af en atmosfære af spænding og forventning. Den stemningsfulde belysning, de bløde havbrise og den beroligende lyden af bølgerne, skaber en perfekt kulisse for en aften med film og hygge. Tag plads i de komfortable siddeområder, som er placeret, så du har den bedste udsigt til både filmen på storskærmen og den naturskønne omgivelse.</p>
             <p class="lead">Pris pr. person kr. 195,-</p>
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_oel_smagning.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_film.jpg" alt="" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -79,15 +76,15 @@
 <div class="container pb-lg-5 pt-5">
     <div class="row d-flex align-items-start text-center text-md-start">
         <div class="col-12 col-md-6 pe-md-3">
-            <h3>Oplev ølens fortryllende verden på smukke omgivelser</h3>
-            <p>Eventet begynder med en varm velkomst fra det imødekommende personale, der guider dig til det dedikerede område til ølsmagning. Det stilfulde indretning og den sofistikerede atmosfære bidrager til den eksklusive stemning, der omgiver arrangementet. Smukt anrettede borde er fyldt med et udvalg af nøje udvalgte ølflasker og specialdesignede glas, der venter på at blive udforsket.</p>
-            <p>Eksperter inden for ølverdenen står klar til at guide dig gennem smagningens kunst. De deler deres dybdegående viden om ølens historie, brygningsprocessen og de forskellige smagsnuancer, der kan findes i forskellige ølvarianter. Du vil blive betaget af de rige aromaer, de komplekse smagsoplevelser og de subtile nuancer, der danser på din tunge.</p>
-            </div>
+            <h3>Dyk ned i filmens verden på den store storskærm</h3>
+            <p>På dette event kan du dykke ned i filmens fortryllende verden, når vi viser populære film på den store storskærm. Uanset om du er fan af action, romantik, komedie eller thrillere, vil der være noget for enhver smag. Tag plads på strandcaféen, lad dig synke ned i de komfortable sæder og fordyb dig i historierne, karaktererne og de visuelle effekter, som filmene bringer med sig. Den store storskærm og den fantastiske lydkvalitet skaber en intim biografoplevelse under åben himmel.</p>
+            <p>Når du sætter dig til rette i de bløde sæder og retter dit blik mod den store storskærm, vil du blive draget ind i filmens univers. Det skarpe billede og den imponerende lydkvalitet på storskærmen skaber en intens biografoplevelse, der får dig til at glemme tid og sted. Du vil føle dig omgivet af spændingen, følelserne og dramaet, der udfolder sig på lærredet.</p>
+        </div>
 
         <div class="col-12 col-md-6 pt-3 pt-lg-0">
-            <h3>En fortryllende kombination af smagsoplevelser og betagende udsigt</h3>
-            <p>Mens du nyder de lækre ølsmagsprøver, kan du lade dig forføre af den fortryllende udsigt udenfor. Det maleriske havnemiljø med skibes bevægelse og den solnedgang, der kaster et gyldent lys over horisonten, giver en perfekt kulisse til denne eksklusive oplevelse.</p>
-            <p>Uanset om du er en ægte ølentusiast eller bare nysgerrig efter at udforske ølverdenens vidundere, vil denne ølsmagningsevent på det stillestående skib efterlade dig med minder for livet. En kombination af sublime smagsoplevelser, forbløffende udsigt og en atmosfære fyldt med klasse.</p>
+            <h3>En magisk aften med film og betagende havudsigt</h3>
+            <p>Dette event er skabt til alle, der elsker film og ønsker at kombinere det med en betagende havudsigt og afslappende atmosfære. Forestil dig at sidde på strandcaféen, omgivet af venner, familie eller andre filmelskere, mens solen går ned og skaber en magisk kulisse. Den betagende udsigt og de glitrende havbølger skaber den perfekte baggrund for denne uforglemmelige filmoplevelse.</p>
+            <p>Tag del i dette unikke event med film på storskærm på strandcaféen og lad dig forføre af filmens magi og den betagende havudsigt. Uanset om du er en ægte filmfan eller blot ønsker at nyde en hyggelig aften med underholdning, vil dette event efterlade dig med smil på læben og minder for livet.</p>
         </div>
     </div>
 </div>
@@ -100,9 +97,9 @@
 <!-- Kommende Events -->
 <div class="container-fluid p-5 fullscreen-bg">
     <h2 class="text-center text-white mt-lg-3 pt-5">Kommende events</h2>
-    <p class="lead text-center text-white">Skibet Vinoteque</p>
+    <p class="lead text-center text-white">Strand Caféen</p>
     <div class="row d-flex justify-content-center text-center px-lg-5 pt-lg-5">
-        <?php include "includes/events_vinoteque.php"; ?>
+        <?php include "includes/events_cafe.php"; ?>
     </div>
 </div>
 
