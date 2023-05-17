@@ -51,7 +51,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Historien -->
@@ -69,7 +69,7 @@
             <p>
                 I 1993 køber Rederei Bötcher skibet, laver en stor ombygning og omdøber hende til Marittima. Skibet sejler bl. a som ”smørbåd” til Danmark, da dette ophører bliver den nye opgave, som party båd og turistbåd i Trave kanalerne omkring Lübeck og i Østersøen.
             </p>
-            <a href="kontakt.html" class="btn btn-secondary text-white">Kontakt</a>
+            <a href="kontakt.php" class="btn btn-secondary text-white">Kontakt</a>
 
         </div>
         <div class="col-12 col-md-6">
@@ -102,7 +102,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Billed af skib -->

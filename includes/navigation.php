@@ -13,13 +13,16 @@
                     <a class="nav-link active" aria-current="page" href="index.php">Forside</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="om_os">Om os</a>
+                    <a class="nav-link" href="om_os.php">Om os</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="loungen.php">Strand Caféen</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="kontakt">Kontakt</a>
+                    <a class="nav-link" href="vej.php">Find Vej</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="kontakt.php">Kontakt</a>
                 </li>
             </ul>
             <a href="events.php" class="btn btn-primary text-white btn-link ms-lg-2">Events</a>

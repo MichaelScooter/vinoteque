@@ -18,6 +18,7 @@
     <meta name="copyright" content="Information om copyright">
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Montserrat:wght@300;400&display=swap');
@@ -33,9 +34,61 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Her skal sidens indhold ligge -->
+<div class="container-fluid g-0 d pt-5">
+    <div>
+        <div class="position-relative">
+            <img src="images/kontakt_vinoteque.jpg" class="w-100">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
+                <div class="text-center row pt-3 pt-lg-5">
+                    <h1 class="text-white">Kontakt<br>Vinoteque Marittima</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Drue Bund -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+</div>
+
+
+<!-- kontakt info -->
+<div class="container pb-5 mb-5">
+    <div class="row">
+        <div class="text-center pb-1 pb-lg-3">
+            <h5 class="text-primary">Kontakt info.</h5>
+            <h2>Spørgsmål / Ønsker</h2>
+            <p class="lead">Har du spørgsmål eller ønsker at booke bord, Event eller festlokale, så kontakt os endelig.</p>
+
+        </div>
+
+        <div class="col-12 col-lg-4 py-3 text-center">
+            <i class="fa-solid fa-phone fa-3x"></i>
+            <p class="lead pb-4">(+45) 54 85 55</p>
+            <i class="fa-solid fa-envelope fa-3x"></i>
+            <p class="lead">vinoteque-m@rius.dk</p>
+        </div>
+        <div class="col-12 col-lg-4 py-3 text-center">
+            <i class="fa-solid fa-location-dot fa-3x"></i>
+            <p class="lead">Vinoteque Marittima<br>Ndr. Kajgade / Sandgade (Kajen)<br>
+                4800 Nykøbing Falster</p>
+            <a href="vej.php" class="btn btn-secondary text-white btn-link ms-lg-2">Find Vej</a>
+        </div>
+        <div class="col-12 col-lg-4 pt-5 py-lg-3 text-center">
+           <i class="fa-brands fa-facebook fa-3x"></i>
+            <p class="lead pb-4">Facebook</p>
+            <i class="fa-brands fa-instagram fa-3x"></i>
+            <p class="lead pb-lg-4">instagram</p>
+        </div>
+
+    </div>
+</div>
+
+<!-- kontakt formular -->
 <div class="contact vh-100 d-flex justify-content-center align-items-center">
     <div class="form col-auto rounded-3 p-2 p-lg-5 bg-light bg-opacity-75" style="width: 80%;">
-        <h2 class="text-uppercase">Kontakt Os</h2>
+        <h2 class="text-uppercase">Skriv en besked</h2>
         <div class="mb-3">
             <label for="navn" class="form-label">Navn</label>
             <input type="text" class="form-control" id="navn" aria-describedby="navnHelp">

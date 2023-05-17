@@ -90,6 +90,10 @@ p{
 	background-color: rgba(0, 0, 0, 0.8); /* Juster gennemsigtighed efter behov */
 }
 
+.text-center .googleMap img{
+	max-width:100px;
+
+}
 
 /* -- START - Koden er kopieret fra codepen.io til event siden med tabs-- */
 .tabset > input[type="radio"] {
@@ -140,13 +144,13 @@ body {
 
 .tabset > label:hover,
 .tabset > input:focus + label {
-	color: red;
+	color: #4e0707;
 }
 
 .tabset > label:hover::after,
 .tabset > input:focus + label::after,
 .tabset > input:checked + label::after {
-	background: limegreen;
+	background: #bf2222;
 }
 
 .tabset > input:checked + label {

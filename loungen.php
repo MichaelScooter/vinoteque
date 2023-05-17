@@ -51,8 +51,9 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
+
 
 <!-- Strand Caféen -->
 <div class="container pb-5">
@@ -76,8 +77,9 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
+
 
 <!-- Billed af strand Caféen -->
 <div class="bg-info hero position-relative">

@@ -42,12 +42,12 @@
             <img src="images/vinbar_vinoteque.jpg" class="w-100">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Nyd et glas vin og <br>den fantastisk udsigt
+                    <h1 class="text-white">Vinoteque Marittima
                     </h1>
-                    <p class="lead text-white">Vinotequet byder på et stort udvalg i vine, øl, drinks kaffe og the.</p>
+                    <p class="lead text-white">Byder på et stort udvalg i vine, øl, drinks, kaffe og the.</p>
                     <div>
-                        <button type="button" class="btn btn-primary text-white">Find vej</button>
-                        <button type="button" class="btn btn-secondary text-white">Events</button>
+                        <a href="vej.php" class="btn btn-primary text-white btn-link ms-lg-2">Find Vej</a>
+                        <a href="events.php" class="btn btn-secondary text-white btn-link ms-lg-2">Events</a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Velkommen Sektion -->
@@ -65,7 +65,7 @@
     <div class="row">
         <div class="text-center">
             <h5 class="text-primary">Velkommen om bord</h5>
-            <h2>Vinoteque Marittima</h2>
+            <h2>Nyd et glas vin og den fantastisk udsigt</h2>
             <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
 
                 <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
@@ -84,7 +84,7 @@
             <h2>Vinen er fra én af verdens <br>10 ældste vinforretninger</h2>
             <p class="lead pb-3">Den lokale vinforretning Marius Mortensens Eftf er blandt verdens 10 ældste Tobaks og Vinforretninger – Born 1865 and still going strong – Forretningen ejes af Jes Jonigk,
                 der også er en del Vinoteque Marittimas ejerkreds.</p>
-            <button class="btn btn-secondary text-white">Læs om Vinoteque</button>
+            <a href="om_os.php" class="btn btn-secondary text-white btn-link ms-lg-2">Læs om Vinoteque</a>
         </div>
         <div class="col-12 col-md-6">
             <img src="images/vinbarens_vine2.jpg" alt="" class="img-fluid h-100">
@@ -94,7 +94,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Udsigten fra Vinoteque -->
@@ -109,8 +109,9 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
+
 <!-- Vinen Festlokale -->
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
@@ -128,7 +129,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Testimonials -->
