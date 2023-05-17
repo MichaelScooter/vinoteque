@@ -50,14 +50,18 @@
 </div>
 
 
+<!-- Drue Top -->
+<div class="container-fluid">
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+</div>
 
 
+<div class="container text-center">
+    <h2>Her kan du se alle vores kommende events</h2>
+    <p class="lead">Events på skibet Vinoteque foregår indendørs og på strand caféen udendørs.</p>
 
-<div class="container py-5">
-    <h2 class="text-center">Her kan du se alle vores kommende events</h2>
 
-
-    <div class="tabset py-3">
+    <div class="tabset py-3 py-lg-5">
     <!-- Tab 1 -->
     <input type="radio" name="tabset" id="tab1" aria-controls="alle" checked>
     <label for="tab1">Alle Event</label>
@@ -241,7 +245,10 @@
     </div>
 </div>
 
-
+<!-- Drue Bund -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+</div>
 
 
 

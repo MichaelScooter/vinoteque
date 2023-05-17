@@ -41,8 +41,8 @@
             <img src="images/marittima_vinoteque.jpg" class="w-100">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Vinoteque Marittima</h1>
-                    <p class="lead text-white">Historien om skibet og vinbaren</p>
+                    <h1 class="text-white">Øl Smagning</h1>
+                    <p class="lead text-white">Få nye smagsoplevelser og måske en ny favorit øl.</p>
                 </div>
             </div>
         </div>
@@ -58,8 +58,8 @@
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
         <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Historien</h5>
-            <h2>Marittima, Porto de Morgan og nu Vinoteque Marittima</h2>
+            <h5 class="text-primary">Lørdag d. 24. juni kl. 20.00</h5>
+            <h2>Ølsmagning for alle</h2>
             <p class="lead pb-3">Fra juli 2021 er Marittima omdøbt til Vinoteque Marittima med ny hjemstavn, Nykøbing Falster.
                 Her skal hun fungere som Vin og Kaffebar, fest lokale og med events hele året rundt.
             </p>
@@ -69,7 +69,8 @@
             <p>
                 I 1993 køber Rederei Bötcher skibet, laver en stor ombygning og omdøber hende til Marittima. Skibet sejler bl. a som ”smørbåd” til Danmark, da dette ophører bliver den nye opgave, som party båd og turistbåd i Trave kanalerne omkring Lübeck og i Østersøen.
             </p>
-            <a href="kontakt.php" class="btn btn-secondary text-white">Kontakt</a>
+            <p class="lead">Pris pr. person kr. 195,-</p>
+            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">
@@ -105,15 +106,7 @@
     <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
-<!-- Billed af skib -->
-<div class="bg-info hero position-relative pt">
-    <img src="images/vinoteque_marittima.jpg" class="w-100 h-100">
-
-    <div class="position-absolute mt-3 mt-lg-5 pt-5 top-0 start-50 translate-middle text-center text-white">
-        <h5 class="pt-md-3 pt-lg-5 mt-md-3 mt-lg-5">Udsigten</h5>
-        <h2>Vinoteque Marittima</h2>
-    </div>
-</div>
+<?php include "includes/events_vinoteque.php"; ?>
 
 <?php include "includes/footer.php"; ?>
 

@@ -63,7 +63,7 @@
          </div>
     </div>
 </div>
-<div class="text-center pb-lg-2">
+<div class="text-center pb-lg-5">
     <p class="lead">Find vej med Google Map</p>
     <p>(Klik på det lille billede)</p>
     <a class="googleMap" href="https://www.google.dk/maps/dir//Sandgade,+4800+Nyk%C3%B8bing+Falster/@54.7703377,11.8537091,15z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x47ad30f97b0d187f:0x9d45111e91fc8619!2m2!1d11.8624639!2d54.770338!3e2?hl=da">
@@ -71,8 +71,9 @@
     </a>
 </div>
 
-<div class="container col-12 justify-content-center d-flex py-5">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.590234059943!2d11.858908712815465!3d54.7695909726224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30fa2b1b7da5%3A0x7354c59eccd9b31b!2sNdr%20Kajgade%20%26%20Sandgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1684255003172!5m2!1sda!2sdk" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- Google Map -->
+<div class="contact vh-100 d-flex justify-content-center align-items-center">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.590234059943!2d11.858908712815465!3d54.7695909726224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30fa2b1b7da5%3A0x7354c59eccd9b31b!2sNdr%20Kajgade%20%26%20Sandgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1684255003172!5m2!1sda!2sdk" width="1200" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
