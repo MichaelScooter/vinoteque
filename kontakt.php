@@ -37,7 +37,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/kontakt_vinoteque.jpg" class="w-100">
+            <img src="images/kontakt_mobil.jpg" class="w-100 d-lg-none">
+            <img src="images/kontakt_vinoteque.jpg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Kontakt<br>Vinoteque Marittima</h1>
@@ -47,20 +48,19 @@
     </div>
 </div>
 
-<!-- Drue Bund -->
+<!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
 </div>
 
 
 <!-- kontakt info -->
-<div class="container pb-5 mb-5">
+<div class="container">
     <div class="row">
         <div class="text-center pb-1 pb-lg-3">
             <h5 class="text-primary">Kontakt info.</h5>
             <h2>Spørgsmål / Ønsker</h2>
             <p class="lead">Har du spørgsmål eller ønsker at booke bord, Event eller festlokale, så kontakt os endelig.</p>
-
         </div>
 
         <div class="col-12 col-lg-4 py-3 text-center">
@@ -79,10 +79,14 @@
            <i class="fa-brands fa-facebook fa-3x"></i>
             <p class="lead pb-4">Facebook</p>
             <i class="fa-brands fa-instagram fa-3x"></i>
-            <p class="lead pb-lg-4">instagram</p>
+            <p class="lead">instagram</p>
         </div>
-
     </div>
+</div>
+
+<!-- Drue Bund -->
+<div class="container-fluid">
+    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
 
 <!-- kontakt formular -->
