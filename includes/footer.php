@@ -1,4 +1,4 @@
-<footer class="container-fluid bg-secondary text-white justify-content-around">
+<footer class="container-fluid bg-secondary text-white justify-content-around border-white border-top border-1">
     <div class="row text-center align-items-center py-3 d-flex">
         <div class="col-12 col-lg-3 py-1 p-lg-0">
             <div class="d-flex align-items-center justify-content-center">
@@ -28,7 +28,7 @@
 </footer>
 
 
-<footer class="container-fluid bg-secondary text-white">
+<footer class="container-fluid bg-secondary text-white border-white border-top border-1">
     <div class="boks1 d-flex justify-content-center g-0 mx-auto">
         <div class="row text-center align-items-center py-3">
             <div class="col-12 col-lg-3 py-1 p-lg-0 mx-auto">

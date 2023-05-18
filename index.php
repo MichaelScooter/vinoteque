@@ -48,7 +48,7 @@
                     <p class="lead text-white px-3 px-lg-0">Byder på et stort udvalg i vine, øl, drinks, kaffe og the.</p>
                     <div>
                         <a href="vej.php" class="btn btn-primary text-white btn-link ms-lg-2">Find Vej</a>
-                        <a href="events.php" class="btn btn-secondary text-white btn-link ms-lg-2">Events</a>
+                        <a href="events.php" class="btn btn-secondary text-white ms-lg-2">Events</a>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
 </div>
 
 <!-- Velkommen Sektion -->
-<div class="container">
+<div class="container pb-lg-5">
     <div class="row">
         <div class="text-center">
             <h5 class="text-primary">Velkommen om bord</h5>
@@ -72,23 +72,7 @@
         </div>
         <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
         <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/vinbarens_vin.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-    </div>
-</div>
-
-<!-- Vinen Sektion -->
-<div class="container py-5">
-    <div class="row py-lg-5 d-flex align-items-center text-center text-md-start">
-        <div class="col-12 col-md-6 pb-5 pe-md-3">
-            <h5 class="text-primary">Vinen</h5>
-            <h2>Vinen er fra én af verdens <br>10 ældste vinforretninger</h2>
-            <p class="lead pb-3">Den lokale vinforretning Marius Mortensens Eftf er blandt verdens 10 ældste Tobaks og Vinforretninger – Born 1865 and still going strong – Forretningen ejes af Jes Jonigk,
-                der også er en del Vinoteque Marittimas ejerkreds.</p>
-            <a href="om_os.php" class="btn btn-secondary text-white btn-link ms-lg-2">Læs om Vinoteque</a>
-        </div>
-        <div class="col-12 col-md-6">
-            <img src="images/vinbarens_vine2.jpg" alt="" class="img-fluid h-100">
-        </div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vine.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
     </div>
 </div>
 
@@ -96,6 +80,25 @@
 <div class="container-fluid">
     <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
 </div>
+
+<!-- Vinen Sektion -->
+<div class="container-fluid bg-farve3">
+    <div class="container py-5">
+        <div class="row py-lg-5 d-flex align-items-center text-center text-md-start bg-farve3">
+            <div class="col-12 col-md-6 pb-5 pe-md-3">
+                <h5 class="text-primary">Vinen</h5>
+                <h2>Vinen er fra én af verdens <br>10 ældste vinforretninger</h2>
+                <p class="lead pb-3">Den lokale vinforretning Marius Mortensens Eftf er blandt verdens 10 ældste Tobaks og Vinforretninger – Born 1865 and still going strong – Forretningen ejes af Jes Jonigk,
+                    der også er en del Vinoteque Marittimas ejerkreds.</p>
+                <a href="om_os.php" class="btn btn-secondary text-white ms-lg-2">Læs om Vinoteque</a>
+            </div>
+            <div class="col-12 col-md-6">
+                <img src="images/vinbarens_vine.jpg" alt="" class="img-fluid h-100">
+            </div>
+        </div>
+    </div>
+</div>
+
 
 
 <!-- Udsigten fra Vinoteque -->
