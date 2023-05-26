@@ -10,7 +10,10 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Intim jazz koncert | Oplev magien på skibet!</title>
+    <meta name="title" content="Intim jazz koncert på skib | Oplev magien!">
+    <meta name="description" content="Nyd en aften med intim jazz musik på vores skib med en unik udsigt. Få en uforglemmelig oplevelse med live jazz og bestil dine billetter nu!">
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -64,7 +67,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_jazz.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_jazz.jpg" alt="Intim jazz koncert på skibet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

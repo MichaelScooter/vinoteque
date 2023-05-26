@@ -10,7 +10,9 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Om Vinoteque | Historien om vores unikke vinbar</title>
+    <meta name="title" content="Historien om Vinoteque | En unik vinbar på skibet">
+    <meta name="description" content="Opdag historien bag Vinoteque, en eksklusiv vinbar ombord på vores skib. Oplev den perfekte kombination af luksus, smag og havudsigt. Læs mere nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -70,7 +72,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vibaren_Jes_Jonigk.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/vibaren_Jes_Jonigk.jpg" alt="Jes Jonigk Vinoteque - Historien om vores unikke vinbar på skibet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

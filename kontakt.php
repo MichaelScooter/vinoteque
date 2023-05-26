@@ -10,7 +10,9 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Kontakt Vinoteque | Book festlokale eller stil spørgsmål</title>
+    <meta name="title" content="Kontakt Vinoteque | Book festlokale eller stil dine spørgsmål">
+    <meta name="description" content="Ønsker du at booke vores festlokale eller har du spørgsmål vedr. Vinoteque? Kontakt os for information og personlig assistance. Vi står klar til at hjælpe!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">

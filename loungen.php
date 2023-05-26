@@ -10,7 +10,11 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Kontakt Vinoteque | Book festlokale eller stil spørgsmål</title>
+    <meta name="title" content="Strandcafé ved Vinoteque | Nyd udsigten og forfriskninger">
+    <meta name="description" content="Besøg vores strandcafé ved Vinoteque og oplev en fortryllende udsigt kombineret med lækre forfriskninger. Forkæl dine sanser og slå dig ned i paradis.">
+
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -61,9 +65,9 @@
             <p class="lead">Strand Café er en charmerende café beliggende på havnen, der tilbyder en fantastisk kombination af lækker mad, forfriskende drikkevarer i en dejlig atmosfære med en skøn udsigt udover vandet.
              </p>
         </div>
-        <div class="col-4 py-3"><img src="images/strand_bar_vinoteque.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/strand_bar_drinks.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/strand_bar_solnedgang.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/strand_bar_vinoteque.jpg" alt="Afslappende atmosfære på vores strandcafé ved Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/strand_bar_drinks.jpg" alt="Forfriskende drikkevarer og smuk udsigt på strandcaféen" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/strand_bar_solnedgang.jpg" alt="Hygge og havudsigt på vores Vinoteque strandcafé" class="img-fluid h-100 rounded-3"></div>
         <div>
             <p class="pt-3 pt-lg-5">I løbet af sommeren arrangeres der forskellige festlige events på Vinoteque Strand Café. Fra livemusik, til tema-aftener og specialarrangementer, er der altid noget spændende at opleve. Dette gør caféen til et populært mødested for både lokale beboere og turister, der søger en sjov og underholdende aften.</p>
             <p>Uanset om du ønsker at nyde en lækker middag, slappe af med en forfriskende drink eller deltage i en af de festlige begivenheder, er Vinoteque Strand Café det ideelle sted at besøge. </p>
@@ -87,7 +91,7 @@
             <h2>Strand Café</h2>
         </div>
         <div class="col-12 d-flex justify-content-center">
-            <img src="images/vinoteque_strand_cafe.png" alt="" class="img-fluid v-100">
+            <img src="images/vinoteque_strand_cafe.png" alt="Strandcafé ved Vinoteque - Nyd udsigten og forfriskninger" class="img-fluid v-100">
         </div>
     </div>
 </div>

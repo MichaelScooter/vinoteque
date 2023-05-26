@@ -10,7 +10,10 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Film på Storskærm ved Vinoteque Strand Cafe | Unik udendørs filmoplevelse</title>
+    <meta name="title" content="Oplev Film på Storskærm ved Vinoteque Strand Cafe">
+    <meta name="description" content="Nyd en uforglemmelig aften med udendørs film på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev film under åben himmel med en lækker udsigt. Book nu!">
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -64,7 +67,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_film.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_film.jpg" alt="Film på Storskærm ved Vinoteque Strand Cafe | Udendørs filmoplevelse under åben himmel" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

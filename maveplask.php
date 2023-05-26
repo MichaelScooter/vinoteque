@@ -10,7 +10,9 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>LF Mesterskab i Maveplask på Vinoteque Strand Cafe | Oplev et uforglemmeligt event"</title>
+    <meta name="title" content="LF Mesterskab i Maveplask på Vinoteque Strand Cafe">
+    <meta name="description" content="Vær med til LF Mesterskaber i Maveplask på vores strand cafe ved Vinoteque. Nyd den lækre udsigt, konkurrencen og en fantastisk atmosfære. Tilmeld dig nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -63,7 +65,7 @@
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_maveplask.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_maveplask.jpg" alt="LF Mesterskab i Maveplask på Vinoteque Strand Cafe | Konkurrence og sjov" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

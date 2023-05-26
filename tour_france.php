@@ -10,7 +10,11 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Tour de France på storskærm | Vinoteque Strand Cafe</title>
+    <meta name="title" content="Tour de France på storskærm | Vinoteque strand café">
+    <meta name="description" content="Nyd Tour de France på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev den ultimative cykelløbsstemning med lækker mad, forfriskninger og en fantastisk udsigt. Book din plads nu!">
+
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -63,7 +67,7 @@
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_tour_de_france.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_tour_de_france.jpg" alt="Tour de France på storskærm | Oplev spændingen ved Vinoteque Strand Cafe" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

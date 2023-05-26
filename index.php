@@ -10,7 +10,10 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Vinbaren Vinoteque | Unik udsigt | Kom og oplev den fantastiske stemning!</title>
+    <meta name="title" content="Vinbaren Vinoteque | Unik udsigt | Kom og nyd">
+    <meta name="description" content="Tag del i en uforglemmelig oplevelse på Vinbaren Vinoteque med en unik udsigt. Kom og nyd vores eksklusive udvalg af vine og atmosfære. Velkommen om bord!">
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -65,9 +68,9 @@
             <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
                 <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
         </div>
-        <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/vinoteque_vine.jpg" alt="" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="Lækre tapasretter på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="Indretning og atmosfære på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vine.jpg" alt="Friske og smagfulde vine på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
     </div>
 </div>
 
@@ -88,7 +91,7 @@
                 <a href="om_os.php" class="btn btn-secondary text-white ms-lg-2">Læs om Vinoteque</a>
             </div>
             <div class="col-12 col-md-6">
-                <img src="images/vinbarens_vine.jpg" alt="" class="img-fluid h-100">
+                <img src="images/vinbarens_vine.jpg" alt="Vine fra Vinoteque vinbaren" class="img-fluid h-100">
             </div>
         </div>
     </div>
@@ -104,7 +107,7 @@
             <h2>Vinoteque Marittima</h2>
         </div>
         <div class="col-12">
-        <img src="images/vinoteque_udsigten.png" alt="" class="img-fluid v-100">
+        <img src="images/vinoteque_udsigten.png" alt="Fantastisk udsigt fra Vinoteque Vinbaren" class="img-fluid v-100">
         </div>
     </div>
 </div>
@@ -125,7 +128,7 @@
             <button class="btn btn-secondary text-white">Kontakt</button>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vinbar_festlokale.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/vinbar_festlokale.jpg" alt="Elegant festlokale til arrangementer på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -149,7 +152,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.jpg" alt="avatar" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.jpg" alt="Testimonials Vinoteque vinbar" style="width: 150px;" />
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Mogens Mortensen</h5>
@@ -164,7 +167,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.jpg" alt="avatar" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.jpg" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;" />
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Gerda Haagensen</h5>
@@ -180,7 +183,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.jpg" alt="avatar" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.jpg" alt="Reference af vinbaren Vinoteque" style="width: 150px;" />
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Inger Frederiksen</h5>

@@ -10,7 +10,9 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Unik gin smagning | Oplev den fantastiske udsigt!</title>
+    <meta name="title" content="Unik gin smagning på skib | Oplev den fantastiske udsigt!">
+    <meta name="description" content="Tag med på vores eksklusive gin smagnings event på skibet med en betagende udsigt. Smag på håndplukkede gins og skab uforglemmelige oplevelser. Tilmeld dig nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -65,7 +67,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_gin_smagning.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_gin_smagning.jpg" alt="Gin smagning på skibet med fantastisk udsigt" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

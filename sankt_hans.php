@@ -10,7 +10,10 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe | Oplev en magisk aften</title>
+    <meta name="title" content="Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe">
+    <meta name="description" content="Fejr Sankt Hans og nyd en lækker fiskefestival ved vores strand cafe på skibet Vinoteque. Oplev en magisk aften med bål, musik og fantastisk udsigt. Book nu!">
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -63,7 +66,7 @@
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/evet_sankt_hans.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/evet_sankt_hans.jpg" alt="Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe | Magisk aften ved bålet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

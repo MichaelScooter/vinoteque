@@ -10,7 +10,9 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Det sønderjyske kagebord | Oplev det på skibet</title>
+    <meta name="title" content="Oplev det sønderjyske kagebord på skib | Forkæl dine smagsløg!">
+    <meta name="description" content="Nyd en overdådig oplevelse med det sønderjyske kagebord på vores skib med en fantastisk udsigt. Smag på lækre kager og sønderjyske specialiteter. Bestil nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -67,7 +69,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_kagebuffet.jpg" alt="" class="img-fluid h-100 rounded-3">
+            <img src="images/event_kagebuffet.jpg" alt="Det sønderjyske kagebord på skibet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>

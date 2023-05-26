@@ -10,7 +10,10 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+    <title>Events i Nykøbing Falster | Vinoteque Vinbar og Strandcafé</title>
+    <meta name="title" content="Events i Nykøbing Falster | Vinoteque Vinbar og Strandcafé">
+    <meta name="description" content="Opdag spændende events og aktiviteter på Vinoteque Vinbar og Strandcafé i Nykøbing Falster. Kom og oplev underholdning, musik og kulinariske oplevelser ved stranden. Se vores eventoversigt!">
+
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="robots" content="All">
@@ -38,8 +41,8 @@
             <img src="images/events_vinbaren_vinoteque.jpg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Events</h1>
-                    <p class="lead text-white">Spændende og sjove oplevelser - både på Vinoteque og vores strandcafé på kajen.</p>
+                    <h1 class="text-white">Events på Vinoteque og Strandcaféen</h1>
+                    <p class="lead text-white">Få nye Spændende og sjove oplevelser - i skønne omgivelser</p>
                 </div>
             </div>
         </div>
