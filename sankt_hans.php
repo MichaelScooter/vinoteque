@@ -37,8 +37,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/sankt_hans_mobil.jpg" class="w-100 d-lg-none pt-5">
-            <img src="images/sankt_hans_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/sankt_hans_mobil.jpg" alt="Fejr Sankt Hans aften ved stranden på Vinoteque - oplev en magisk aften med bål, musik og hygge" class="w-100 d-lg-none pt-5">
+            <img src="images/sankt_hans_vinoteque.jpg" alt="Tag del i den traditionsrige Sankt Hans fejring på Vinoteque og nyd en aften fyldt med festivitas" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Sankt Hans</h1>

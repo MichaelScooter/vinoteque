@@ -36,8 +36,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/maveplask_mobil.jpg" class="w-100 d-lg-none pt-5">
-            <img src="images/maveplask_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/maveplask_mobil.jpg" alt="Vær med til LF Mesterskaber i maveplask og nyd en dag fyldt med sjov og vandaktiviteter på Vinoteque" class="w-100 d-lg-none pt-5">
+            <img src="images/maveplask_vinoteque.jpg" alt="Dyk ned i maveplaskens verden på Vinoteque og konkurrer i en spændende konkurrence om mesterskabet" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">LF Mesterskaber</h1>

@@ -37,8 +37,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/film_mobil.jpg" class="w-100 d-lg-none pt-5">
-            <img src="images/film_event_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/film_mobil.jpg" alt="Nyd en aften under stjernerne med film på storskærm hos Vinoteque - skab uforglemmelige minder" class="w-100 d-lg-none pt-5">
+            <img src="images/film_event_vinoteque.jpg" alt="Få en unik filmoplevelse på Vinoteque med spektakulær storskærmsvisning og en behagelig atmosfære" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Film</h1>

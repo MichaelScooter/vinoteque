@@ -36,8 +36,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/kagebord_mobil.jpg" class="w-100 d-lg-none pt-5">
-            <img src="images/kagebuffet_vinoteque.jpg" class="w-100 d-none d-lg-block">
+            <img src="images/kagebord_mobil.jpg" alt="Forkæl din søde tand med en overdådig oplevelse af Sønderjyllands bedste kager og desserter hos Vinoteque" class="w-100 d-lg-none pt-5">
+            <img src="images/kagebuffet_vinoteque.jpg" alt="Tag på en kulinarisk rejse gennem Sønderjyllands kagekultur på Vinoteque - nyd vores lækre kagebordsevent" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Sønderjysk Kagebord</h1>
