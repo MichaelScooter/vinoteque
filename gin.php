@@ -62,7 +62,7 @@
             <p>Mens du træder ombord på skibet, bliver du mødt af en atmosfære af spænding og forventning. Udsigten over havet og havnen, der strækker sig ud foran dig, skaber en lækker kulisse for denne uforglemmelige gin-smagning.</p>
 
             <p class="lead">Pris pr. person kr. 245,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">

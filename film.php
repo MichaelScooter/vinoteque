@@ -62,7 +62,7 @@
             <p class="lead pb-3">Velkommen til en uforglemmelig filmoplevelse på en strandcafé beliggende ved havnen. Her kan du fordybe dig i magien ved film, mens du nyder en betagende udsigt over det strålende hav og den solnedgang, der maler himlen i varme farver.</p>
            <p>Når du træder ind på strandcaféen, vil du straks blive mødt af en atmosfære af spænding og forventning. Den stemningsfulde belysning, de bløde havbrise og den beroligende lyden af bølgerne, skaber en perfekt kulisse for en aften med film og hygge. Tag plads i de komfortable siddeområder, som er placeret, så du har den bedste udsigt til både filmen på storskærmen og den naturskønne omgivelse.</p>
             <p class="lead">Pris pr. person kr. 195,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">

@@ -62,7 +62,7 @@
             <p class="lead pb-3">Velkommen til en magisk Sankt Hans aften kombineret med en lækker fiskefestival på en hyggelig strandcafé beliggende ved havnen. Dette event er dedikeret til at fejre den traditionsrige Sankt Hans aften og samtidig nyde en overdådig fest med lækre fiskeretter. </p>
             <p>Når du ankommer til strandcaféen, vil du straks blive betaget af den afslappede atmosfære og den betagende udsigt over havet og den omkringliggende natur, der danner den perfekte kulisse for denne unikke begivenhed.</p>
             <p class="lead">Pris pr. person kr. 195,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
             <img src="images/evet_sankt_hans.webp" alt="Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe | Magisk aften ved bålet" class="img-fluid h-100 rounded-3">

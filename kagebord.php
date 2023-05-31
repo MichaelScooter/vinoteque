@@ -64,7 +64,7 @@
                 Mens du bevæger dig gennem skibets indre, bliver du mødt af et festligt kagebord fyldt med sønderjyske delikatesser. Det sønderjyske kagebord er kendt for sin overdådighed og enestående smag. En bred vifte af farverige kager, sprøde småkager og søde fristelser præsenteres med omhu og indbyder dig til at smage på hver enkelt lækkerbid.
             </p>
             <p class="lead">Pris pr. person kr. 245,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">

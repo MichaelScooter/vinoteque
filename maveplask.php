@@ -61,7 +61,7 @@
             <p class="lead pb-3">Velkommen til det sjove og uofficielle Lolland-Falster mesterskab i maveplask, der afholdes på en hyggelig strandcafé beliggende på havnen. Dette event er dedikeret til sjov, latter og konkurrence, hvor deltagere i alle aldre kan udfolde sig og vise deres maveplaskfærdigheder. </p>
             <p>Når du ankommer til strandcaféen, vil du straks blive mødt af en afslappet atmosfære og en betagende udsigt over havet og den omkringliggende natur, der danner den perfekte kulisse for dette underholdende mesterskab.</p>
             <p class="lead">Pris pr. person kr. 95,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
             <img src="images/event_maveplask.webp" alt="LF Mesterskab i Maveplask på Vinoteque Strand Cafe | Konkurrence og sjov" class="img-fluid h-100 rounded-3">

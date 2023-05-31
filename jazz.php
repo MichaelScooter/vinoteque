@@ -62,7 +62,7 @@
             <p class="lead pb-3">Velkommen til en uforglemmelig jazzkoncert ombord på et skib, der ligger fast fortøjet i havnen. Dette event er dedikeret til elskere af jazzmusik og den magiske stemning, der følger med. </p>
             <p>Når du træder ombord på skibet, bliver du mødt af en atmosfære fyldt med spænding og forventning. Udsigten over havet og havnen danner en betagende baggrund for denne unikke jazzkoncert.</p>
             <p class="lead">Pris pr. person kr. 295,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">

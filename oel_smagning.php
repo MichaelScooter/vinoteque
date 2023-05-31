@@ -64,7 +64,7 @@
                 Mens du bevæger dig gennem skibets dækkede områder, føles det som at træde ind i en verden af elegance og raffinement. Fra det øjeblik, du træder ombord, kan du mærke en særlig energi, der summer i luften. Den lækre udsigt over havet og havnen strækker sig ud foran dig, og du kan næsten mærke havbrisen på dit ansigt.
             </p>
             <p class="lead">Pris pr. person kr. 195,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
 
         </div>
         <div class="col-12 col-md-6">

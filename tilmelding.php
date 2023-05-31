@@ -50,14 +50,11 @@
 
 
 
-
-
-
-
 <!-- Drue Top -->
 <div class="container-fluid">
     <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
+
 
 
 <main>
@@ -254,7 +251,9 @@
                 <div class="total-value final-value" id="basket-total">0.00</div>
             </div>
             <div class="summary-checkout">
-                <button class="checkout-cta">Gå til sikker betaling</button>
+
+                <a href="betaling.php" class="checkout-cta btn btn-farve5 text-white">Gå til sikker betaling</a>
+
             </div>
         </div>
     </aside>

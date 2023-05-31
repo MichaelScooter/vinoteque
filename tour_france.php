@@ -63,7 +63,7 @@
             <p class="lead pb-3">Velkommen til en spændende oplevelse på en strandcafé beliggende ved havnen, hvor du kan nyde 1. etape af årets Tour de France på en stor storskærm. </p>
             <p>Dette event er dedikeret til cykelfans og entusiaster, der ønsker at opleve den intense atmosfære og dramaet fra Tour de France på en unik måde. Når du træder ind på strandcaféen, bliver du mødt af en afslappet atmosfære og en betagende udsigt over havet og den omkringliggende natur, der danner den perfekte baggrund for denne spændende begivenhed.</p>
             <p class="lead">Pris pr. person kr. 195,-</p>
-            <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
             <img src="images/event_tour_de_france.webp" alt="Tour de France på storskærm | Oplev spændingen ved Vinoteque Strand Cafe" class="img-fluid h-100 rounded-3">
