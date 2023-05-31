@@ -152,7 +152,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.jpg" alt="Testimonials Vinoteque vinbar" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.jpg" alt="Testimonials Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Mogens Mortensen</h5>
@@ -167,7 +167,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.jpg" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.jpg" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Gerda Haagensen</h5>
@@ -183,7 +183,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.jpg" alt="Reference af vinbaren Vinoteque" style="width: 150px;" />
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.jpg" alt="Reference af vinbaren Vinoteque" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Inger Frederiksen</h5>
