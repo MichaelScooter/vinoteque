@@ -10,8 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe | Oplev en magisk aften</title>
-    <meta name="title" content="Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe">
+    <title>Sankt Hans og Fiskefestival ved Vinoteque Strand Cafe</title>
     <meta name="description" content="Fejr Sankt Hans og nyd en lækker fiskefestival ved vores strand cafe på skibet Vinoteque. Oplev en magisk aften med bål, musik og fantastisk udsigt. Book nu!">
 
 

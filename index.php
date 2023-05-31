@@ -10,8 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Vinbaren Vinoteque | Unik udsigt | Kom og oplev den fantastiske stemning!</title>
-    <meta name="title" content="Vinbaren Vinoteque | Unik udsigt | Kom og nyd">
+    <title>Vinbaren Vinoteque | Skøn Unik Udsigt | Kom og nyd den!</title>
     <meta name="description" content="Tag del i en uforglemmelig oplevelse på Vinbaren Vinoteque med en unik udsigt. Kom og nyd vores eksklusive udvalg af vine og atmosfære. Velkommen om bord!">
 
 
@@ -37,7 +36,7 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/vinoteque_vinbar_mobil.webp" alt="Forkæl dine sanser med unikke vine på Vinbaren Vinoteque" class="w-100 d-lg-none">
+            <img src="images/vinoteque_vinbar_mobil.webp" alt="Forkæl dine sanser med unikke vine på Vinbaren Vinoteque" class="w-100 d-lg-none pt-5">
             <img src="images/vinbar_vinoteque.webp" alt="Oplev enestående vinoplevelser på Vinbaren Vinoteque" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
@@ -152,43 +151,43 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel1.webp" alt="Testimonials Vinoteque vinbar" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.webp" alt="Testimonials Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Dorthe Hansen</h5>
                         <p class="text-primary">Leder Plejehjem</p>
-                        <p class="text-muted">
+                        <p>
                             <i class="fas fa-quote-left pe-2"></i>
-                            Jeg er en passioneret vinkender, og Vinbaren Vinoteque på skibet er uden tvivl et af mine foretrukne steder at besøge. Udsigten over havnen er simpelthen betagende, og atmosfæren om bord er så afslappet og indbydende.
+                            Jeg er en passioneret vinkender, og Vinbaren Vinoteque på skibet er uden tvivl et af mine foretrukne steder at besøge. Udsigten over havnen er simpelthen betagende, og atmosfæren om bord er så afslappet og indbydende.<br><br>
                             Vinudvalget er imponerende, og personalet er meget vidende og hjælpsomme. Jeg har altid følt mig godt taget imod og har fået gode anbefalinger til vine, der passer til min smag. Det er en sand fornøjelse at sidde på dækket, nyde et glas god vin og beundre den smukke udsigt. Jeg kan varmt anbefale Vinbaren Vinoteque til enhver vinelsker!
                         </p>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.webp" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.webp" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Lene Jensen</h5>
                         <p class="text-primary">Revy Entusiast</p>
-                        <p class="text-muted">
+                        <p>
                             <i class="fas fa-quote-left pe-2"></i>
-                            Jeg havde fornøjelsen af at besøge Vinbaren Vinoteque på skibet, og jeg blev fuldstændig blæst væk af den betagende udsigt over havnen. Atmosfæren om bord er både afslappet og elegant, og jeg følte mig virkelig forkælet under hele mit besøg.
+                            Jeg havde fornøjelsen af at besøge Vinbaren Vinoteque på skibet, og jeg blev fuldstændig blæst væk af den betagende udsigt over havnen. Atmosfæren om bord er både afslappet og elegant, og jeg følte mig virkelig forkælet under hele mit besøg.<br><br>
                             Vinkortet er omfattende og imponerende, og personalet var yderst hjælpsomme med at guide mig gennem mine valg. Jeg nød virkelig at sidde på dækket og slappe af med et glas lækker vin i hånden. Det er uden tvivl et sted, jeg vil anbefale til alle, der søger en unik vinoplevelse med en fantastisk udsigt.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel3.webp" alt="Reference af vinbaren Vinoteque" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.webp" alt="Reference af vinbaren Vinoteque" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
                         <h5 class="mb-3">Torben Mortensen</h5>
-                        <p class="text-primary">webudvikler</p>
-                        <p class="text-muted">
+                        <p class="text-primary">Webudvikler</p>
+                        <p>
                             <i class="fas fa-quote-left pe-2"></i>
                             Jeg besøgte Vinbaren Vinoteque på skibet for nylig, og det var en uforglemmelig oplevelse. Udsigten fra skibet var simpelthen fantastisk - det var som at befinde sig i en postkortidyll med havet og havnen strækkende sig så langt øjet rakte.
-                            Jeg er ikke den største vinentusiast, men personalet var utroligt vidende og hjælpsomme med at guide mig gennem deres brede udvalg af vine. De tog sig tid til at lytte til mine præferencer og anbefalede vine, der passede til min smag. Jeg blev virkelig imponeret over deres ekspertise og engagement.
+                            Jeg er ikke den største vinentusiast, men personalet var utroligt vidende og hjælpsomme med at guide mig gennem deres brede udvalg af vine. De tog sig tid til at lytte til mine præferencer og anbefalede vine, der passede til min smag. <br><br>Jeg blev virkelig imponeret over deres ekspertise og engagement.
                             At sidde på dækket med et glas vin og nyde den skønne udsigt var en helt speciel oplevelse. Atmosfæren var afslappet, og jeg følte mig virkelig velkommen. Jeg kan varmt anbefale Vinbaren Vinoteque til både vinelskere og dem, der blot ønsker at nyde en unik oplevelse med en spektakulær udsigt.
                         </p>
                     </div>

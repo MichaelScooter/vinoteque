@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Events i Nykøbing Falster | Vinoteque Vinbar og Strandcafé</title>
-    <meta name="title" content="Events i Nykøbing Falster | Vinoteque Vinbar og Strandcafé">
     <meta name="description" content="Opdag spændende events og aktiviteter på Vinoteque Vinbar og Strandcafé i Nykøbing Falster. Kom og oplev underholdning, musik og kulinariske oplevelser ved stranden. Se vores eventoversigt!">
 
 
@@ -37,7 +36,7 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/event_vinbaren_mobil.webp" alt="Oplev spændende og underholdende events i Nykøbing Falster hos Vinoteque" class="w-100 d-lg-none">
+            <img src="images/event_vinbaren_mobil.webp" alt="Oplev spændende og underholdende events i Nykøbing Falster hos Vinoteque" class="w-100 d-lg-none pt-5">
             <img src="images/events_vinbaren_vinoteque.webp" alt="Få en uforglemmelig oplevelse til vores arrangementer i Nykøbing Falster hos Vinoteque" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">

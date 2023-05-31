@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Intim jazz koncert | Oplev magien på skibet!</title>
-    <meta name="title" content="Intim jazz koncert på skib | Oplev magien!">
     <meta name="description" content="Nyd en aften med intim jazz musik på vores skib med en unik udsigt. Få en uforglemmelig oplevelse med live jazz og bestil dine billetter nu!">
 
 

@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Unik ølsmagning på skibet | Oplev den fantastiske udsigt!</title>
-    <meta name="title" content="Unik ølsmagning på skib | Oplev den fantastiske udsigt!">
     <meta name="description" content="Tag med på vores eksklusive ølsmagnings event på skibet med en betagende udsigt. Smag på håndbryggede øl og skab uforglemmelige øjeblikke. Tilmeld dig nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->

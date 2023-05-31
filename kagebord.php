@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Det sønderjyske kagebord | Oplev det på skibet</title>
-    <meta name="title" content="Oplev det sønderjyske kagebord på skib | Forkæl dine smagsløg!">
     <meta name="description" content="Nyd en overdådig oplevelse med det sønderjyske kagebord på vores skib med en fantastisk udsigt. Smag på lækre kager og sønderjyske specialiteter. Bestil nu!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->

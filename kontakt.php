@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Kontakt Vinoteque | Book festlokale eller stil spørgsmål</title>
-    <meta name="title" content="Kontakt Vinoteque | Book festlokale eller stil dine spørgsmål">
     <meta name="description" content="Ønsker du at booke vores festlokale eller har du spørgsmål vedr. Vinoteque? Kontakt os for information og personlig assistance. Vi står klar til at hjælpe!">
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
@@ -34,7 +33,7 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/kontakt_mobil.webp" alt="Kontakt Vinoteque for at få svar på spørgsmål eller bestille en unik oplevelse" class="w-100 d-lg-none">
+            <img src="images/kontakt_mobil.webp" alt="Kontakt Vinoteque for at få svar på spørgsmål eller bestille en unik oplevelse" class="w-100 d-lg-none pt-5">
             <img src="images/kontakt_vinoteque.webp" alt="Kontakt Vinoteque og få svar på dine spørgsmål" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center text-white row pt-3 pt-lg-5">

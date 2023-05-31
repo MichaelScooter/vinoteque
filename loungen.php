@@ -10,8 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Kontakt Vinoteque | Book festlokale eller stil spørgsmål</title>
-    <meta name="title" content="Strandcafé ved Vinoteque | Nyd udsigten og forfriskninger">
+    <title>Strandcafé ved Vinoteque | Nyd udsigten og forfriskninger</title>
     <meta name="description" content="Besøg vores strandcafé ved Vinoteque og oplev en fortryllende udsigt kombineret med lækre forfriskninger. Forkæl dine sanser og slå dig ned i paradis.">
 
 
@@ -38,7 +37,7 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/vinbaren_strandcafe_mobil.webp" alt="Slap af med lækre retter og en betagende udsigt på vores strandcafé ved Vinoteque" class="w-100 d-lg-none">
+            <img src="images/vinbaren_strandcafe_mobil.webp" alt="Slap af med lækre retter og en betagende udsigt på vores strandcafé ved Vinoteque" class="w-100 d-lg-none pt-5">
             <img src="images/vinbarens_strand_cafe.webp" alt="Nyd en kulinarisk oplevelse med panoramaudsigt på vores strandcafé ved Vinoteque" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">

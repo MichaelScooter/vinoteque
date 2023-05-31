@@ -10,8 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Film på Storskærm ved Vinoteque Strand Cafe | Unik udendørs filmoplevelse</title>
-    <meta name="title" content="Oplev Film på Storskærm ved Vinoteque Strand Cafe">
+    <title>Film på Storskærm ved Vinoteque Strand Cafe</title>
     <meta name="description" content="Nyd en uforglemmelig aften med udendørs film på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev film under åben himmel med en lækker udsigt. Book nu!">
 
 

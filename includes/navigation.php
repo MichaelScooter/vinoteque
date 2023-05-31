@@ -4,7 +4,7 @@ $url = end($path);
 ?>
 
 <!-- Navbar - Start -->
-<nav class="navbar navbar-expand-lg bg-white fixed-top shadow">
+<nav class="navbar navbar-expand-lg bg-white fixed-top shadow px-2 px-lg-0">
     <div class="container-fluid px-lg-5">
 
         <a class="navbar-brand" href="index.php" id="logo">Vinoteque Marittima</a>

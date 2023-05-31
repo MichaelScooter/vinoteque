@@ -11,7 +11,6 @@
 
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Tour de France på storskærm | Vinoteque Strand Cafe</title>
-    <meta name="title" content="Tour de France på storskærm | Vinoteque strand café">
     <meta name="description" content="Nyd Tour de France på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev den ultimative cykelløbsstemning med lækker mad, forfriskninger og en fantastisk udsigt. Book din plads nu!">
 
 
