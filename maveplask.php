@@ -36,8 +36,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/maveplask_mobil.jpg" alt="Vær med til LF Mesterskaber i maveplask og nyd en dag fyldt med sjov og vandaktiviteter på Vinoteque" class="w-100 d-lg-none pt-5">
-            <img src="images/maveplask_vinoteque.jpg" alt="Dyk ned i maveplaskens verden på Vinoteque og konkurrer i en spændende konkurrence om mesterskabet" class="w-100 d-none d-lg-block">
+            <img src="images/maveplask_mobil.webp" alt="Vær med til LF Mesterskaber i maveplask og nyd en dag fyldt med sjov og vandaktiviteter på Vinoteque" class="w-100 d-lg-none pt-5">
+            <img src="images/maveplask_vinoteque.webp" alt="Dyk ned i maveplaskens verden på Vinoteque og konkurrer i en spændende konkurrence om mesterskabet" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">LF Mesterskaber</h1>
@@ -50,7 +50,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Historien -->
@@ -65,7 +65,7 @@
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_maveplask.jpg" alt="LF Mesterskab i Maveplask på Vinoteque Strand Cafe | Konkurrence og sjov" class="img-fluid h-100 rounded-3">
+            <img src="images/event_maveplask.webp" alt="LF Mesterskab i Maveplask på Vinoteque Strand Cafe | Konkurrence og sjov" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -88,7 +88,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_bund.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Kommende Events -->

@@ -36,8 +36,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/kagebord_mobil.jpg" alt="Forkæl din søde tand med en overdådig oplevelse af Sønderjyllands bedste kager og desserter hos Vinoteque" class="w-100 d-lg-none pt-5">
-            <img src="images/kagebuffet_vinoteque.jpg" alt="Tag på en kulinarisk rejse gennem Sønderjyllands kagekultur på Vinoteque - nyd vores lækre kagebordsevent" class="w-100 d-none d-lg-block">
+            <img src="images/kagebord_mobil.webp" alt="Forkæl din søde tand med en overdådig oplevelse af Sønderjyllands bedste kager og desserter hos Vinoteque" class="w-100 d-lg-none pt-5">
+            <img src="images/kagebuffet_vinoteque.webp" alt="Tag på en kulinarisk rejse gennem Sønderjyllands kagekultur på Vinoteque - nyd vores lækre kagebordsevent" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Sønderjysk Kagebord</h1>
@@ -50,7 +50,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Historien -->
@@ -69,7 +69,7 @@
 
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_kagebuffet.jpg" alt="Det sønderjyske kagebord på skibet" class="img-fluid h-100 rounded-3">
+            <img src="images/event_kagebuffet.webp" alt="Det sønderjyske kagebord på skibet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -92,7 +92,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_bund.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Kommende Events -->

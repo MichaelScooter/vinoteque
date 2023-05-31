@@ -38,8 +38,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/tour_de_france_mobil.jpg" alt="Følg spændingen i Tour de France på storskærm hos Vinoteque - en uforglemmelig cykelløbsoplevelse" class="w-100 d-lg-none pt-5">
-            <img src="images/tour_de_france_vinoteque.jpg" alt="Oplev Tour de France i fantastisk selskab på Vinoteque - bliv en del af cykelløbets magi" class="w-100 d-none d-lg-block">
+            <img src="images/tour_de_france_mobil.webp" alt="Følg spændingen i Tour de France på storskærm hos Vinoteque - en uforglemmelig cykelløbsoplevelse" class="w-100 d-lg-none pt-5">
+            <img src="images/tour_de_france_vinoteque.webp" alt="Oplev Tour de France i fantastisk selskab på Vinoteque - bliv en del af cykelløbets magi" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Tour de France</h1>
@@ -52,7 +52,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Historien -->
@@ -67,7 +67,7 @@
             <a href="kontakt.php" class="btn btn-primary text-white">Tilmeld</a>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/event_tour_de_france.jpg" alt="Tour de France på storskærm | Oplev spændingen ved Vinoteque Strand Cafe" class="img-fluid h-100 rounded-3">
+            <img src="images/event_tour_de_france.webp" alt="Tour de France på storskærm | Oplev spændingen ved Vinoteque Strand Cafe" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
@@ -90,7 +90,7 @@
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_bund.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Kommende Events -->

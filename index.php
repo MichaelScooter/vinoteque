@@ -37,8 +37,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/vinoteque_vinbar_mobil.jpg" alt="Forkæl dine sanser med unikke vine på Vinbaren Vinoteque" class="w-100 d-lg-none">
-            <img src="images/vinbar_vinoteque.jpg" alt="Oplev enestående vinoplevelser på Vinbaren Vinoteque" class="w-100 d-none d-lg-block">
+            <img src="images/vinoteque_vinbar_mobil.webp" alt="Forkæl dine sanser med unikke vine på Vinbaren Vinoteque" class="w-100 d-lg-none">
+            <img src="images/vinbar_vinoteque.webp" alt="Oplev enestående vinoplevelser på Vinbaren Vinoteque" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Vinoteque Marittima
@@ -56,7 +56,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Velkommen Sektion -->
@@ -68,15 +68,15 @@
             <p class="lead">Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, <br>om det er i øl, vin, rom/gin så har vi ekspertisen.
                 <br><br>Derudover arrangere vi forskellige events i løbet af året, såsom koncerter og sønderjysk kagebord. <br>Sidst kan nævnes, at vi har et stort og flot festlokale til udlejning.</p>
         </div>
-        <div class="col-4 py-3"><img src="images/vinbarens_tapas.jpg" alt="Lækre tapasretter på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.jpg" alt="Indretning og atmosfære på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
-        <div class="col-4 py-3"><img src="images/vinoteque_vine.jpg" alt="Friske og smagfulde vine på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinbarens_tapas.webp" alt="Lækre tapasretter på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vinbar.webp" alt="Indretning og atmosfære på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
+        <div class="col-4 py-3"><img src="images/vinoteque_vine.webp" alt="Friske og smagfulde vine på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3"></div>
     </div>
 </div>
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_bund.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Vinen Sektion -->
@@ -91,7 +91,7 @@
                 <a href="om_os.php" class="btn btn-secondary text-white ms-lg-2">Læs om Vinoteque</a>
             </div>
             <div class="col-12 col-md-6">
-                <img src="images/vinbarens_vine.jpg" alt="Vine fra Vinoteque vinbaren" class="img-fluid h-100">
+                <img src="images/vinbarens_vine.webp" alt="Vine fra Vinoteque vinbaren" class="img-fluid h-100">
             </div>
         </div>
     </div>
@@ -107,7 +107,7 @@
             <h2>Vinoteque Marittima</h2>
         </div>
         <div class="col-12">
-        <img src="images/vinoteque_udsigten.png" alt="Fantastisk udsigt fra Vinoteque Vinbaren" class="img-fluid v-100">
+        <img src="images/vinoteque_udsigten.webp" alt="Fantastisk udsigt fra Vinoteque Vinbaren" class="img-fluid v-100">
         </div>
     </div>
 </div>
@@ -115,7 +115,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
 </div>
 
 <!-- Vinen Festlokale -->
@@ -128,14 +128,14 @@
             <button class="btn btn-secondary text-white">Kontakt</button>
         </div>
         <div class="col-12 col-md-6">
-            <img src="images/vinbar_festlokale.jpg" alt="Elegant festlokale til arrangementer på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3">
+            <img src="images/vinbar_festlokale.webp" alt="Elegant festlokale til arrangementer på Vinbaren Vinoteque" class="img-fluid h-100 rounded-3">
         </div>
     </div>
 </div>
 
 <!-- Drue Bund -->
 <div class="container-fluid">
-    <img src="images/drue_bund.jpg" alt="" class="img-fluid h-100 py-3">
+    <img src="images/drue_bund.webp" alt="" class="img-fluid h-100 py-3">
 </div>
 
 <!-- Testimonials -->
@@ -152,47 +152,44 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.jpg" alt="Testimonials Vinoteque vinbar" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel1.webp" alt="Testimonials Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
-                        <h5 class="mb-3">Mogens Mortensen</h5>
-                        <p class="text-primary">Tidligere vognmand</p>
+                        <h5 class="mb-3">Dorthe Hansen</h5>
+                        <p class="text-primary">Leder Plejehjem</p>
                         <p class="text-muted">
                             <i class="fas fa-quote-left pe-2"></i>
-                            Jeg er stor fan af Milde og Vilde viser.
-                            Deres musik bringer folk sammen, og uanset hvordan éns dag har været, så løfter de humøret med deres musik, man kan synge med på.
-                            Deres forskellige fortolkninger af sangene giver også lidt nyt liv til klassikerne.
+                            Jeg er en passioneret vinkender, og Vinbaren Vinoteque på skibet er uden tvivl et af mine foretrukne steder at besøge. Udsigten over havnen er simpelthen betagende, og atmosfæren om bord er så afslappet og indbydende.
+                            Vinudvalget er imponerende, og personalet er meget vidende og hjælpsomme. Jeg har altid følt mig godt taget imod og har fået gode anbefalinger til vine, der passer til min smag. Det er en sand fornøjelse at sidde på dækket, nyde et glas god vin og beundre den smukke udsigt. Jeg kan varmt anbefale Vinbaren Vinoteque til enhver vinelsker!
                         </p>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel3.jpg" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/gammel2.webp" alt="tilbagemelding fra kunde Vinoteque vinbar" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
-                        <h5 class="mb-3">Gerda Haagensen</h5>
+                        <h5 class="mb-3">Lene Jensen</h5>
                         <p class="text-primary">Revy Entusiast</p>
                         <p class="text-muted">
                             <i class="fas fa-quote-left pe-2"></i>
-                            Jeg var lidt skeptisk omkring at bruge min eftermiddag på sang efter opfordring fra konen.
-                            Vi endte med at deltage aktivt og blev med det samme en del af fællesskabet.
-                            Nu skal vi afsted på fredag for 4. gang - kan klart anbefales!
-                            Også selvom man måske ikke har den helt store sangstemme.
+                            Jeg havde fornøjelsen af at besøge Vinbaren Vinoteque på skibet, og jeg blev fuldstændig blæst væk af den betagende udsigt over havnen. Atmosfæren om bord er både afslappet og elegant, og jeg følte mig virkelig forkælet under hele mit besøg.
+                            Vinkortet er omfattende og imponerende, og personalet var yderst hjælpsomme med at guide mig gennem mine valg. Jeg nød virkelig at sidde på dækket og slappe af med et glas lækker vin i hånden. Det er uden tvivl et sted, jeg vil anbefale til alle, der søger en unik vinoplevelse med en fantastisk udsigt.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel1.jpg" alt="Reference af vinbaren Vinoteque" style="width: 150px;">
+                <img class="rounded-circle shadow-1-strong mb-4" src="images/Gammel3.webp" alt="Reference af vinbaren Vinoteque" style="width: 150px;">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-8">
-                        <h5 class="mb-3">Inger Frederiksen</h5>
-                        <p class="text-primary">Pensioneret</p>
+                        <h5 class="mb-3">Torben Mortensen</h5>
+                        <p class="text-primary">webudvikler</p>
                         <p class="text-muted">
                             <i class="fas fa-quote-left pe-2"></i>
-                            Milde og Vilde Viser er så gode. Jeg har altid følelserne helt ude på tøjet, de gange jeg har deltaget til deres koncerter, da deres musik er så genkendelig og vækker så mange minder.
-                            Jeg kan også godt lide at de skiller sig lidt ud - og ikke er som en jukeboks.
-                            Der må gerne være lidt nyt engang i mellem.
+                            Jeg besøgte Vinbaren Vinoteque på skibet for nylig, og det var en uforglemmelig oplevelse. Udsigten fra skibet var simpelthen fantastisk - det var som at befinde sig i en postkortidyll med havet og havnen strækkende sig så langt øjet rakte.
+                            Jeg er ikke den største vinentusiast, men personalet var utroligt vidende og hjælpsomme med at guide mig gennem deres brede udvalg af vine. De tog sig tid til at lytte til mine præferencer og anbefalede vine, der passede til min smag. Jeg blev virkelig imponeret over deres ekspertise og engagement.
+                            At sidde på dækket med et glas vin og nyde den skønne udsigt var en helt speciel oplevelse. Atmosfæren var afslappet, og jeg følte mig virkelig velkommen. Jeg kan varmt anbefale Vinbaren Vinoteque til både vinelskere og dem, der blot ønsker at nyde en unik oplevelse med en spektakulær udsigt.
                         </p>
                     </div>
                 </div>

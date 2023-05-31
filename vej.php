@@ -37,8 +37,8 @@
 <div class="container-fluid g-0 d pt-5">
     <div>
         <div class="position-relative">
-            <img src="images/find_vej_mobil.jpg" alt="Find vej til Vinbaren Vinoteque - Kom og nyd vores udvalg" class="w-100 d-lg-none">
-            <img src="images/find_vej_vinbaren.jpg" alt="Find vej til Vinoteque vinbaren - Kom og nyd vores udvalg" class="w-100 d-none d-lg-block">
+            <img src="images/find_vej_mobil.webp" alt="Find vej til Vinbaren Vinoteque - Kom og nyd vores udvalg" class="w-100 d-lg-none">
+            <img src="images/find_vej_vinbaren.webp" alt="Find vej til Vinoteque vinbaren - Kom og nyd vores udvalg" class="w-100 d-none d-lg-block">
             <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
                 <div class="text-center row pt-3 pt-lg-5">
                     <h1 class="text-white">Find Vej</h1>
@@ -51,7 +51,7 @@
 
 <!-- Drue Top -->
 <div class="container-fluid">
-    <img src="images/drue_top.jpg" alt="" class="img-fluid h-100"></div>
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100"></div>
 </div>
 
 <!-- Strand Caféen -->
@@ -68,7 +68,7 @@
     <p class="lead">Find vej med Google Map</p>
     <p>(Klik på det lille billede)</p>
     <a class="googleMap" href="https://www.google.dk/maps/dir//Sandgade,+4800+Nyk%C3%B8bing+Falster/@54.7703377,11.8537091,15z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x47ad30f97b0d187f:0x9d45111e91fc8619!2m2!1d11.8624639!2d54.770338!3e2?hl=da">
-        <img src="images/google.jpg" alt="Find vej">
+        <img src="images/google.webp" alt="Find vej">
     </a>
 </div>
 
