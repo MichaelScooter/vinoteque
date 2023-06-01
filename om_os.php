@@ -55,7 +55,7 @@
 <!-- Historien -->
 <div class="container">
     <div class="row d-flex align-items-center text-center text-md-start">
-        <div class="col-12 col-md-6 pb-5 pe-md-3">
+        <div class="col-12 col-lg-6 pb-5 pe-md-3">
             <h5 class="text-primary">Historien</h5>
             <h2>Marittima, Porto de Morgan og nu Vinoteque Marittima</h2>
             <p class="lead pb-3">Fra juli 2021 er Marittima omdøbt til Vinoteque Marittima med ny hjemstavn, Nykøbing Falster.
@@ -70,7 +70,7 @@
             <a href="kontakt.php" class="btn btn-secondary text-white">Kontakt</a>
 
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-lg-6">
             <img src="images/vibaren_Jes_Jonigk.webp" alt="Jes Jonigk Vinoteque - Historien om vores unikke vinbar på skibet" class="img-fluid h-100 rounded-3">
         </div>
     </div>
@@ -78,7 +78,7 @@
 
 <div class="container pb-lg-5 pt-5">
     <div class="row d-flex align-items-start text-center text-md-start">
-        <div class="col-12 col-md-6 pe-md-3">
+        <div class="col-12 col-md-6 pe-md-3 pt-md-0">
             <h3>Hvem står bag Vinotequet?</h3>
             <p>Vinotequet er en ide opstået af vinhandler Jes Jonigk, fra Marius Mortensens Eftf. Det var aldrig meningen at byens Vinoteque skulle ligge på vandet, det var en ren tilfældighed.</p>
             <p>Ejerkredsen er udvidet til 40 investorer i selskabet Marius & Friends, disse ejer selve skibet og med deres investering for øje, er det et ønske at åbne og udvikle Nykøbing F Havn.</p>
@@ -86,7 +86,7 @@
             <p>Drømmen om at åbne en god kvalitativ vin og kaffebar er hermed blevet til. Nogen tænker det, andre drømmer det – VI GØR DET .</p>
         </div>
 
-        <div class="col-12 col-md-6 pt-3 pt-lg-0">
+        <div class="col-12 col-md-6 pt-3 pt-md-0 pt-lg-0">
             <h3>Vin, Events og Festlokale</h3>
             <p>Vinotequet vil have et stort aktivitets program, der vil året rundt være masser af smagninger, om det er i øl, vin, rom/gin så har vi ekspertisen.</p>
             <p>Vinotequet i sig selv, byder på et stort udvalg i vine, øl, drinks kaffe og the. </p>
@@ -103,6 +103,30 @@
     <img src="images/drue_bund.webp" alt="" class="img-fluid h-100">
 </div>
 
+<!-- Video Sektion -->
+
+<div class="container-fluid bg-farve3">
+    <div class="container py-5">
+        <div class="row py-lg-5 d-flex align-items-center text-center text-md-start bg-farve3">
+            <div class="col-12 col-lg-6 pb-5 pe-md-3">
+                <h5 class="text-primary">Video 2 min.</h5>
+                <h2>En kort præsentationsvideo<br>med Jes Jonigk</h2>
+                <p class="lead pb-3">Se lidt fra skibet og hør om nogle af de forhåbninger Jes har vedr. gæsternes oplevelser på Vinoteque.</p>
+                <button class="playButton btn-link text-decoration-none text-white" onclick="document.getElementById('video').play()">Afspil video</button>
+            </div>
+            <div class="col-12 col-lg-6">
+                <video id="video" width="600" height="600" controls poster="images/praesentationsbillede_vinotque.webp">
+                    <source src="video/praesentationsvideo_vinoteque.webm" type="video/webm">
+                    <source src="video/praesentationsvideo_vinoteque.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
 <!-- Billede af Skibet -->
 <div class="container-fluid fixedBaggrund vh-50 d-flex justify-content-center align-items-center py-5">
     <div class="row">
@@ -111,10 +135,11 @@
             <h2>Vinoteque Marittima</h2>
         </div>
         <div class="col-12 d-flex justify-content-center">
-            <img src="images/skibet_vinoteque_marittima.webp" alt="" class="img-fluid v-100">
+            <img src="images/skibet_vinoteque_marittima.webp" alt="" class="img-fluid v-100 smaller-image">
         </div>
     </div>
 </div>
+
 
 <?php include "includes/footer.php"; ?>
 

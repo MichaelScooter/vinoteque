@@ -32,7 +32,7 @@ font-family: 'Montserrat', sans-serif;
  */
 
 #logo{
-	content: url("../images/vinbaren_vinoteque.svg");
+	content: url("../images/logo_vinbaren_vinoteque.svg");
 	max-height: 80px;
 }
 
@@ -99,7 +99,7 @@ p{
 
 /* Dette er træbaggrunden - bruges bl.a. ved kommende events på forsiden*/
 .fullscreen-bg {
-	background-image: url('../images/baggrund_vinbaren.webp');
+	background-image: url('../images/baggrund_vinbaren_dark.webp');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -122,6 +122,24 @@ p{
 	max-width:100px;
 
 }
+
+.smaller-image {
+	max-width: 50%;
+	height: auto;
+}
+
+.playButton{
+	padding-top:6px;
+	padding-bottom:6px;
+}
+
+.playButton:hover{
+	background-color:#4e0707;
+}
+
+
+
+/* ---------------------------- Her starter kode der er kopieret og tilrettet ---------------------- -----------------*/
 
 /* -- START - Koden er kopieret fra codepen.io til event siden med tabs-- */
 .tabset > input[type="radio"] {
@@ -547,21 +565,11 @@ form .btn{
 /* -- Start -Koden fra Codepen.io Betalingssiden --------------------------------------------- */
 
 
-.containerVisa {
 
-
-
-
-}
 
 .card-body {
-
-
 	border-radius: 5px;
-
-
 	background: #f9f9f9;
-
 	box-shadow: 0px 5px 12px 5px rgba(0,0,0,0.1);
 }
 
@@ -572,20 +580,11 @@ form .btn{
 	opacity: 0.6;
 }
 
-
-
-
 .payment {
 	height: 100%;
 	width: 100%;
 	display: flex;
 	align-items: center;
-
-}
-
-.creditcard {
-
-
 }
 
 .thecard {
@@ -593,13 +592,10 @@ form .btn{
 	height: 225px;
 	display: flex;
 	flex-direction: column;
-
 	background: #4e0707;
-
 	border: 1px solid rgba(0,0,0,0.1);
 	border-radius: 5px;
 	box-shadow: 0px 4px 15px 1px rgba(0,0,0,0.3);
-
 	text-shadow: 0 1px 0 rgba(0,0,0,1);
 }
 
@@ -628,24 +624,16 @@ form .btn{
 .circle {
 	width: 50px;
 	height: 50px;
-
 	margin: 20px;
-
 	border-radius: 50%;
-
 	background: #bf2222;
 	&:before {
 		content: '';
-
 		position: absolute;
-
 		width: 50px;
 		height: 50px;
-
 		margin: 15px 10px;
-
 		border-radius: 50%;
-
 		background: #E0BF73;
 	}
 }
@@ -653,9 +641,7 @@ form .btn{
 .card-title {
 	margin: 20px;
 	margin-left: -40px;
-
 	z-index: 1;
-
 	color: #EBF1EB;
 
 	font-style: italic;
@@ -676,8 +662,6 @@ formBetaling {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-
-
 	font-size: 0.9rem;
 	font-weight: 400;
 }
@@ -689,12 +673,9 @@ label {
 input, select {
 	margin-bottom: 1.3rem;
 	padding: 1rem;
-
 	border-radius: 5px;
 	border: 1px solid rgba(0,0,0,0);
-
 	outline: none;
-
 	line-height: 1.1rem;
 	transition: all 300ms ease;
 }
@@ -730,21 +711,22 @@ select {
 button {
 	font-size: 1.1rem;
 	font-family: "Cinzel Decorative", "Brush Script MT", cursive;
-
-
 	background: #00802e;
 	color: #EBF1EB;
-
 	padding: 1rem;
-
 	border-radius: 5px;
 	border: none;
-
 	outline: none;
-
 	cursor: pointer;
-
 	transition: all 300ms ease;
+}
 
+@media (max-width: 991px) {
+	#video {
+		max-width: 100%;
+		max-height: 100%;
+		width: auto;
+		height: auto;
+	}
 }
 

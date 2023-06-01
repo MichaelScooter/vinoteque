@@ -90,7 +90,7 @@
             <h2>Strand Café</h2>
         </div>
         <div class="col-12 d-flex justify-content-center">
-            <img src="images/vinoteque_strand_cafe.webp" alt="Strandcafé ved Vinoteque - Nyd udsigten og forfriskninger" class="img-fluid v-100">
+            <img src="images/vinoteque_strand_cafe.webp" alt="Strandcafé ved Vinoteque - Nyd udsigten og forfriskninger" class="img-fluid v-100 smaller-image">
         </div>
     </div>
 </div>

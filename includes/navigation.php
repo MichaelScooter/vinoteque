@@ -31,7 +31,7 @@ $url = end($path);
                 </li>
             </ul>
             <a href="events.php" class="btn btn-secondary text-white btn-link ms-lg-2">Events</a>
-            <a href="events.php" class="btn btn-primary text-white btn-link ms-lg-2">Tilmelding</a>
+            <a href="tilmelding.php" class="btn btn-primary text-white btn-link ms-lg-2">Tilmelding</a>
         </div>
     </div>
 </nav>
