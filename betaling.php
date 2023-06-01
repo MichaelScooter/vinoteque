@@ -10,8 +10,8 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Film på Storskærm ved Vinoteque Strand Cafe</title>
-    <meta name="description" content="Nyd en uforglemmelig aften med udendørs film på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev film under åben himmel med en lækker udsigt. Book nu!">
+    <title>Betalingsside for events på vinbaren Vinoteque - Unik udsigt</title>
+    <meta name="description" content="Betalingside for vores events på Vinoteque. Kom og oplev film under åben himmel med en lækker udsigt.">
 
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
@@ -84,7 +84,7 @@
                                 <input type="text" id="cardnumber" class="form-control" placeholder="1234 5678 9012 3456">
                                 <label for="cardholder">Navn på kortet</label>
                                 <input type="text" id="cardholder" class="form-control" placeholder="F.eks. Jens Jensen">
-                                <label for="exp">Udløbsdato</label>
+                               <label for="exp">Udløbsdato</label>
                                 <div class="date d-flex">
                                     <select name="month" id="month" class="form-control">
                                         <option value="january">Januar</option>
@@ -117,6 +117,9 @@
                                     </div>
                                     <p>Tre eller fire cifre, som normalt findes på bagsiden af kortet</p>
                                 </div>
+                                <label for="email">E-mail</label> <!-- Ny label til e-mail-indtastningsfelt -->
+                                <input type="email" id="email" class="form-control" placeholder="Indtast din e-mailadresse" required> <!-- E-mail-indtastningsfelt med påkrævet attribut -->
+
                                 <button class="btn btn-farve5">Godkend køb</button>
                             </form>
                         </div>
@@ -126,6 +129,7 @@
         </div>
     </div>
 </div>
+
 
 
 <!-- Drue Bund -->

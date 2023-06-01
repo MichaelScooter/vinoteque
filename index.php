@@ -44,7 +44,7 @@
                     </h1>
                     <p class="lead text-white px-3 px-lg-0">Byder på et stort udvalg i vine, øl, drinks, kaffe og the.</p>
                     <div>
-                        <a href="vej.php" class="btn btn-primary text-white btn-link ms-lg-2">Find Vej</a>
+                        <a href="tilmelding.php" class="btn btn-primary text-white btn-link ms-lg-2">Tilmelding</a>
                         <a href="events.php" class="btn btn-secondary text-white ms-lg-2">Events</a>
                     </div>
                 </div>

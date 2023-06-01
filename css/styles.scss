@@ -56,10 +56,31 @@ p{
 .navbar-nav .nav-link:hover {
 	color: #4e0707;
 }
+/* -- Start - Til de 2 knapper i nav menuen -- */
+#navbarSupportedContent .btn-primary{
+	background-color:#bf2222;
+}
+
+#navbarSupportedContent .btn-primary:hover{
+	background-color:#4e0707;
+}
+
+#navbarSupportedContent .btn-secondary{
+	background-color:#4e0707;
+}
+
+#navbarSupportedContent .btn-secondary:hover{
+	background-color:#bf2222;
+}
+/* -- Slut - Til de 2 knapper i nav menuen -- */
 
 .btn-link{
 	background-color: #bf2222;
 	color: white;
+}
+
+.btn {
+	font-family: "Cinzel Decorative", "Brush Script MT", cursive;
 }
 
 /* -- Vedr. knappen på forsiden - Den viser ikke den rigtige skrift -- */
@@ -174,21 +195,6 @@ p{
 /* -- SLUT - Koden er kopieret fra codepen.io til event siden med tabs-- */
 
 /* -- Start -Koden fra Codepen.io Tilmeldingssiden -- */
-input,
-button {
-	border: 0 none;
-	outline: 0 none;
-}
-
-button {
-	background-color: green;
-	color: #fff;
-}
-
-button:hover,
-button:focus {
-	background-color: #555;
-}
 
 img,
 .basket-module,
@@ -265,6 +271,9 @@ label {
 	-o-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 }
+#promo-code{
+	min-height:41px;
+}
 
 .promo-code-field:hover,
 .promo-code-field:focus {
@@ -315,30 +324,6 @@ li.subtotal:before {
 .subtotal {
 	text-align: right;
 }
-
-.remove {
-	bottom: 1.125rem;
-	float: right;
-	position: absolute;
-	right: 0;
-	text-align: right;
-	width: 45%;
-}
-
-.remove button {
-	background-color: transparent;
-	color: #777;
-	float: none;
-	text-decoration: underline;
-	text-transform: uppercase;
-}
-
-.basket .remove button{
-	font-size:11px;
-	padding: 10px ;
-
-}
-
 
 
 .item-heading {
@@ -444,7 +429,7 @@ aside {
 }
 
 .promo-value {
-	color: #8b0000;
+	color: #bf2222;
 	float: left;
 	text-align: right;
 	width: 30%;
@@ -477,6 +462,10 @@ aside {
 	padding: 0.625rem 0;
 	width: 100%;
 }
+form .btn{
+	font-family:montserrat;
+}
+
 
 .summary-delivery-selection {
 	background-color: #ccc;
@@ -689,7 +678,6 @@ formBetaling {
 	justify-content: center;
 
 
-	color: #49425a;
 	font-size: 0.9rem;
 	font-weight: 400;
 }
@@ -707,19 +695,8 @@ input, select {
 
 	outline: none;
 
-	font-size: 1.1rem;
 	line-height: 1.1rem;
-	font-family: 'Muli', sans-serif;
-
-	background: #FFF;
-	color: #49425a;
-
 	transition: all 300ms ease;
-
-	&:hover {
-		transition: all 300ms ease;
-		border: 1px solid #49425A;
-	}
 }
 
 .small {
@@ -752,6 +729,7 @@ select {
 
 button {
 	font-size: 1.1rem;
+	font-family: "Cinzel Decorative", "Brush Script MT", cursive;
 
 
 	background: #00802e;
@@ -768,8 +746,5 @@ button {
 
 	transition: all 300ms ease;
 
-	&:hover {
-		background: #333;
-	}
 }
 

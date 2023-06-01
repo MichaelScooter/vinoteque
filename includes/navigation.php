@@ -30,7 +30,8 @@ $url = end($path);
                     <a class="nav-link <?php echo ($url == "kontakt.php") ? "active" : "" ?>" href="kontakt.php">Kontakt</a>
                 </li>
             </ul>
-            <a href="events.php" class="btn btn-primary text-white btn-link ms-lg-2">Events</a>
+            <a href="events.php" class="btn btn-secondary text-white btn-link ms-lg-2">Events</a>
+            <a href="events.php" class="btn btn-primary text-white btn-link ms-lg-2">Tilmelding</a>
         </div>
     </div>
 </nav>

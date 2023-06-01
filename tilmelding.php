@@ -10,8 +10,8 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Tilmelding Events på Vinoteque</title>
-    <meta name="description" content="Nyd en uforglemmelig aften med udendørs film på storskærm ved vores strand cafe på skibet Vinoteque. Kom og oplev film under åben himmel med en lækker udsigt. Book nu!">
+    <title>Tilmelding for Events på Vinoteque vinbar og strandcafé.</title>
+    <meta name="description" content="Tilmelding til event på skibet Vinoteque. Vinbaren med unik udsigt - Få en uforglemmelig oplevelse!">
 
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
@@ -38,9 +38,11 @@
 <div class="container">
     <div class="row">
         <div class="text-center">
-            <h5 class="text-primary">Tilmedling</h5>
+            <h5 class="text-primary">Tilmelding</h5>
             <h2>Køb af billetter til events</h2>
-            <p>Vi bruger krypteringsteknologi til at beskytte dine betalingsoplysninger under transmission. <br>Dette sikrer, at dine følsomme data forbliver private og ikke kan læses af uautoriserede parter.</p>
+            <p class="lead">På betalingssiden skal du indtaste din e-mailadresse.</p>
+            <p>Når du har gennemført købet, vil du øjeblikkeligt modtage de købte billetter via e-mail. <br>
+                Vigtigt at du indtaster din korrekte e-mailadresse for at modtage billetterne efter købet.</p>
         </div>
     </div>
 </div>
@@ -51,7 +53,8 @@
         <div class="basket-module">
             <label for="promo-code">Indtast rabat kode:</label>
             <input id="promo-code" type="text" name="promo-code" maxlength="5" class="promo-code-field">
-            <button class="promo-code-cta">Indløs</button>
+            <button class="promo-code-cta  btn btn-farve5 text-white">Indløs</button>
+
         </div>
         <div class="basket-labels">
             <ul>
@@ -77,9 +80,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -97,9 +97,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -117,9 +114,7 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
+
         </div>
         <div class="basket-product">
             <div class="item">
@@ -137,9 +132,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -157,9 +149,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -177,9 +166,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -197,9 +183,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
         <div class="basket-product">
             <div class="item">
@@ -217,9 +200,6 @@
                 <input type="number" value="0" min="0" class="quantity-field">
             </div>
             <div class="subtotal">0.00</div>
-            <div class="remove">
-                <button>Fjern</button>
-            </div>
         </div>
 
     </div>
@@ -318,7 +298,7 @@
             if (subtotal >= 10) {
                 total -= promoPrice;
             } else {
-                alert("Order must be more than £10 for Promo code to apply.");
+                alert("For at kunne indløse rabatten, så skal der være noget i kurven!");
                 $(".summary-promo").addClass("hide");
             }
         }
