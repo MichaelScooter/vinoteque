@@ -31,34 +31,23 @@
 <?php include "includes/navigation.php"; ?>
 
 <!-- Her skal sidens indhold ligge -->
-
-<!-- Hero Sektion -->
-<div class="container-fluid g-0 d pt-5">
-    <div>
-        <div class="position-relative">
-            <img src="images/film_mobil.webp" alt="Nyd en aften under stjernerne med film på storskærm hos Vinoteque - skab uforglemmelige minder" class="w-100 d-lg-none pt-5">
-            <img src="images/film_event_vinoteque.webp" alt="Få en unik filmoplevelse på Vinoteque med spektakulær storskærmsvisning og en behagelig atmosfære" class="w-100 d-none d-lg-block">
-            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center overlay">
-                <div class="text-center row pt-3 pt-lg-5">
-                    <h1 class="text-white">Tilmelding</h1>
-                    <p class="lead text-white">Køb af billetter til events</p>
-                </div>
-            </div>
+<!-- Drue Top -->
+<div class="container-fluid pt-5">
+    <img src="images/drue_top.webp" alt="" class="img-fluid h-100 pt-5 pt-lg-5">
+</div>
+<div class="container">
+    <div class="row">
+        <div class="text-center">
+            <h5 class="text-primary">Tilmedling</h5>
+            <h2>Køb af billetter til events</h2>
+            <p>Vi bruger krypteringsteknologi til at beskytte dine betalingsoplysninger under transmission. <br>Dette sikrer, at dine følsomme data forbliver private og ikke kan læses af uautoriserede parter.</p>
         </div>
     </div>
 </div>
 
 
-
-<!-- Drue Top -->
-<div class="container-fluid">
-    <img src="images/drue_top.webp" alt="" class="img-fluid h-100">
-</div>
-
-
-
 <main>
-    <div class="basket">
+    <div class="basket pt-lg-5">
         <div class="basket-module">
             <label for="promo-code">Indtast rabat kode:</label>
             <input id="promo-code" type="text" name="promo-code" maxlength="5" class="promo-code-field">
@@ -234,14 +223,14 @@
         </div>
 
     </div>
-    <aside>
+    <aside class="pt-5">
         <div class="summary">
             <div class="summary-total-items"><span class="total-items"></span> Billetter</div>
             <div class="summary-subtotal">
                 <div class="subtotal-title">Subtotal</div>
                 <div class="subtotal-value final-value" id="basket-subtotal">0.00</div>
                 <div class="summary-promo hide">
-                    <div class="promo-title">Promotion</div>
+                    <div class="promo-title">Rabat</div>
                     <div class="promo-value final-value" id="basket-promo"></div>
                 </div>
             </div>
@@ -251,9 +240,7 @@
                 <div class="total-value final-value" id="basket-total">0.00</div>
             </div>
             <div class="summary-checkout">
-
                 <a href="betaling.php" class="checkout-cta btn btn-farve5 text-white">Gå til sikker betaling</a>
-
             </div>
         </div>
     </aside>
