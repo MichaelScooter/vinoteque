@@ -234,6 +234,7 @@ button,
 .product-image,
 .product-details {
 	float: left;
+	font-size: 14px;
 }
 
 .price:before,
@@ -243,6 +244,13 @@ button,
 .promo-value:before {
 	content: "kr. ";
 }
+
+/* Input */
+#basket-subtotal, #basket-total, .basket .quantity input[type=number]{
+	font-size:14px;
+}
+
+
 
 .hide {
 	display: none;
@@ -255,6 +263,10 @@ main {
 	overflow: hidden;
 	padding: 1rem 0;
 	width: 960px;
+}
+
+main .pt-5 .summary {
+	width: 100%;
 }
 
 .basket,

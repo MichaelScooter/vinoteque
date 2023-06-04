@@ -48,8 +48,13 @@
 </div>
 
 
+
+
+
 <main>
-    <div class="basket pt-lg-5">
+    <div class="container">
+        <div class="row">
+        <div class="col-12 col-lg-6 basket pt-lg-5">
         <div class="basket-module">
             <label for="promo-code">Indtast rabat kode:</label>
             <input id="promo-code" type="text" name="promo-code" maxlength="5" class="promo-code-field">
@@ -203,7 +208,8 @@
         </div>
 
     </div>
-    <aside class="pt-5">
+
+    <aside class="col-12 col-lg-6 pt-5">
         <div class="summary">
             <div class="summary-total-items"><span class="total-items"></span> Billetter</div>
             <div class="summary-subtotal">
@@ -220,10 +226,12 @@
                 <div class="total-value final-value" id="basket-total">0.00</div>
             </div>
             <div class="summary-checkout">
-                <a href="betaling.php" class="checkout-cta btn btn-farve5 text-white">Gå til sikker betaling</a>
+                <a href="betaling.php" class="checkout-cta btn btn-farve5 text-white "style="font-family: montserrat">Gå til sikker betaling</a>
             </div>
         </div>
     </aside>
+        </div>
+    </div>
 </main>
 
 <!-- Drue Bund -->

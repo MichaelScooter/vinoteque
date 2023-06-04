@@ -68,7 +68,6 @@
                 I 1993 køber Rederei Bötcher skibet, laver en stor ombygning og omdøber hende til Marittima. Skibet sejler bl. a som ”smørbåd” til Danmark, da dette ophører bliver den nye opgave, som party båd og turistbåd i Trave kanalerne omkring Lübeck og i Østersøen.
             </p>
             <a href="kontakt.php" class="btn btn-secondary text-white">Kontakt</a>
-
         </div>
         <div class="col-12 col-lg-6">
             <img src="images/vibaren_Jes_Jonigk.webp" alt="Jes Jonigk Vinoteque - Historien om vores unikke vinbar på skibet" class="img-fluid h-100 rounded-3">
